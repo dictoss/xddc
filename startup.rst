@@ -35,17 +35,17 @@ CDDC を初めるための準備
 
   - github.com
 
-    - `料金プラン <https://github.co.jp/pricing>``
+    - `料金プラン <https://github.co.jp/pricing>`_
     - 無料枠は3名まで。**枠が足りない。**
   - gitlab.com
 
-    - `料金プラン <https://www.gitlab.jp/pricing/#gitlab-com>_`
+    - `料金プラン <https://www.gitlab.jp/pricing/#gitlab-com>`_
     - Freeプランで人数に関係なく、無料で使える。
     - CI/CDのサーバもついている
     - **候補先としてはこれがよいかも。**
   - bitbucket (Atlassian.com)
 
-    - `Atlassian Community License Request <https://www.atlassian.com/software/views/community-license-request>_`
+    - `Atlassian Community License Request <https://www.atlassian.com/software/views/community-license-request>`_
 
       - 申請枠に団体のwebサイトのURLを提示するところが必須入力になっている。**まだwebサイトがないので困った。**
 
