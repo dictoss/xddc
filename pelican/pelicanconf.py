@@ -12,6 +12,14 @@ TIMEZONE = 'Asia/Tokyo'
 
 DEFAULT_LANG = 'ja'
 
+DEFAULT_DATE_FORMAT = '%Y-%m-%d'
+
+DATE_FORMATS = {
+    'ja': '%Y-%m-%d',
+    'en': '%Y-%m-%d',
+}
+
+
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
