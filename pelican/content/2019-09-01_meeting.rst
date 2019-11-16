@@ -1,0 +1,12 @@
+もくもく会を開催しました
+#########################
+
+:date: 2019-09-01 23:00
+:modified: 2019-09-01 23:00
+:tags: camp
+:category: camp
+:slug: 2019-09-01_meeting
+:authors: dictoss@live.jp
+:summary: もくもく会を開催しました
+
+もくもく会を開催しました。

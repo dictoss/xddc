@@ -1,0 +1,25 @@
+Welcome to Cross Distribution Developer Camp
+########################################################
+
+:date: 2019-02-23 23:00
+:modified: 2019-02-23 23:00
+:tags: introduction
+:category: introduction
+:slug: 2019-02-23_welcome
+:authors: dictoss@live.jp
+:summary: Welcome to Cross Distribution Developer Camp
+
+ディストリビューションの開発を行っている開発者やユーザが集まる場として「Cross Distribution Developer Camp」を立ち上げました。
+
+主にディストリビューション共通の悩みである以下の諸問題を解決する場として活用しています。
+
+- 日本語環境をよりよくする
+  - 翻訳
+  - かな漢字変換エンジン
+  - インプットメソッド
+
+活動しているメンバーは以下のディストリビューションに関わる人たちが活動しています。
+
+- openSUSEユーザ会のメンバー
+- 東海道らぐのメンバー
+- Deian JPのメンバー

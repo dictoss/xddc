@@ -1,0 +1,12 @@
+2019夏合宿を開催しました
+#########################
+
+:date: 2019-06-23 23:00
+:modified: 2019-06-23 23:00
+:tags: camp
+:category: camp
+:slug: 2019-06-22_camp
+:authors: dictoss@live.jp
+:summary: 2019夏合宿を開催しました
+
+2019夏合宿を開催しました。
