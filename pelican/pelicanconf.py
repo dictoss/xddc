@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'dictoss@live.jp'
-SITENAME = 'Cross Distribution Developer Camp'
+SITENAME = 'Cross Distro Developers Camp'
 SITEURL = ''
 
 PATH = 'content'
