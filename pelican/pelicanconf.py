@@ -54,7 +54,7 @@ ARCHIVES_SAVE_AS   = 'archives/index.html'
 
 # use those if you want pelican standard pages to appear in your menu
 MENU_INTERNAL_PAGES = (
-    ('Tags', TAGS_URL, TAGS_SAVE_AS),
+    #('Tags', TAGS_URL, TAGS_SAVE_AS),
     ('Authors', AUTHORS_URL, AUTHORS_SAVE_AS),
     ('Categories', CATEGORIES_URL, CATEGORIES_SAVE_AS),
     ('Archives', ARCHIVES_URL, ARCHIVES_SAVE_AS),
