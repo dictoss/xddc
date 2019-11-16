@@ -1,4 +1,4 @@
-Welcome to Cross Distribution Developer Camp
+Welcome to Cross Distro Developers Camp
 ########################################################
 
 :date: 2019-02-23 23:00
@@ -7,9 +7,9 @@ Welcome to Cross Distribution Developer Camp
 :category: introduction
 :slug: 2019-02-23_welcome
 :authors: dictoss@live.jp
-:summary: Welcome to Cross Distribution Developer Camp
+:summary: Welcome to Cross Distro Developers Camp
 
-ディストリビューションの開発を行っている開発者やユーザが集まる場として「Cross Distribution Developer Camp」を立ち上げました。
+ディストリビューションの開発を行っている開発者やユーザが集まる場として「Cross Distro Developers Camp」を立ち上げました。
 
 主にディストリビューション共通の悩みである以下の諸問題を解決する場として活用しています。
 

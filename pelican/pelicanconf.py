@@ -34,7 +34,7 @@ THEME = './blue-penguin'
 # all the following settings are *optional*
 
 # HTML metadata
-SITEDESCRIPTION = 'Cross Distribution Developer Camp'
+SITEDESCRIPTION = 'Cross Distro Developers Camp'
 
 # all defaults to True.
 DISPLAY_HEADER = True
