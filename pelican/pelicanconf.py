@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'dictoss@live.jp'
 SITENAME = 'Cross Distro Developers Camp'
-SITEURL = ''
+SITEURL = 'https://dictoss.github.io/xddc'
 
 PATH = 'content'
 
@@ -18,8 +18,6 @@ DATE_FORMATS = {
     'ja': '%Y-%m-%d',
     'en': '%Y-%m-%d',
 }
-
-PREFIX_DIR = 'xddc/'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
@@ -52,17 +50,17 @@ DISPLAY_HOME   = True
 DISPLAY_MENU   = True
 
 #
-ARTICLE_URL = 'xddc/{slug}.html'
+ARTICLE_URL = '{slug}.html'
 
 # provided as examples, they make ‘clean’ urls. used by MENU_INTERNAL_PAGES.
-TAGS_URL           = PREFIX_DIR + 'tags'
-TAGS_SAVE_AS       = PREFIX_DIR + 'tags/index.html'
-AUTHORS_URL        = PREFIX_DIR + 'authors'
-AUTHORS_SAVE_AS    = PREFIX_DIR + 'authors/index.html'
-CATEGORIES_URL     = PREFIX_DIR + 'categories'
-CATEGORIES_SAVE_AS = PREFIX_DIR + 'categories/index.html'
-ARCHIVES_URL       = PREFIX_DIR + 'archives'
-ARCHIVES_SAVE_AS   = PREFIX_DIR + 'archives/index.html'
+TAGS_URL           = 'tags'
+TAGS_SAVE_AS       = 'tags/index.html'
+AUTHORS_URL        = 'authors'
+AUTHORS_SAVE_AS    = 'authors/index.html'
+CATEGORIES_URL     = 'categories'
+CATEGORIES_SAVE_AS = 'categories/index.html'
+ARCHIVES_URL       = 'archives'
+ARCHIVES_SAVE_AS   = 'archives/index.html'
 
 # use those if you want pelican standard pages to appear in your menu
 MENU_INTERNAL_PAGES = (
