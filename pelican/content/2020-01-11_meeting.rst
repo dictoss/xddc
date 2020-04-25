@@ -1,0 +1,12 @@
+もくもく会を開催しました
+#########################
+
+:date: 2020-01-11 23:00
+:modified: 2020-01-11 23:00
+:tags: camp
+:category: camp
+:slug: 2020-01-11_meeting
+:authors: dictoss@live.jp
+:summary: もくもく会を開催しました
+
+`ディストリビューション開発もくもく会 2020年1月 <https://connpass.com/event/158916/>`_ を開催しました。
