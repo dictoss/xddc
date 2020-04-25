@@ -3,7 +3,7 @@
 ## ツール
 
 - pelicanというツールを使っています
-  - pip install pelican
+  - pip3 install pelican==4.2.0
 
 ## 記事の作成手順
 
