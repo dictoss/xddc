@@ -18,8 +18,10 @@ Welcome to Cross Distro Developers Camp
   - かな漢字変換エンジン
   - インプットメソッド
 
-活動しているメンバーは以下のディストリビューションに関わる人たちが活動しています。
+メンバーは以下のディストリビューションやデスクトップ環境に関わる人が活動しています。
 
-- openSUSEユーザ会のメンバー
-- 東海道らぐのメンバー
-- Deian JPのメンバー
+- `日本openSUSEユーザ会 <https://opensuse.geeko.jp/>`_ のメンバー
+- `東海道らぐ <https://tokaidolug.colorfultime.net/>`_ のメンバー
+- `DebianJP <https://www.debian.or.jp/>`_ のメンバー
+- `Ubuntu Japanese Team <https://www.ubuntulinux.jp/>`_ のメンバー
+- `LibreOffice Japanese Team <https://wiki.documentfoundation.org/JA/Team>`_ のメンバー
