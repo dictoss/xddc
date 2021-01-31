@@ -1,0 +1,17 @@
+オープンデベロッパーズカンファレンス2020
+##############################################
+
+:date: 2020-12-20 23:00
+:modified: 2020-12-20 23:00
+:tags: osc
+:category: event
+:slug: 2020-12-19_odc2020
+:authors: dictoss@live.jp
+:summary: オープンデベロッパーズカンファレンス2020 に参加しました
+
+2020年12月19日に開催した `オープンデベロッパーズカンファレンス2020 <https://www.ospn.jp/odc2019/>`_ に参加しました。
+
+以下のセッション2本行いました。
+
+- `Linuxディストリビューション大集合　〜あなたのLinuxディストリビューションを見つけてみよう〜 <https://event.ospn.jp/ODC2020-Online/session/248421>`_
+- `【MTG】Linuxディストリビューション開発談話 <https://event.ospn.jp/ODC2020-Online/session/248434>`_

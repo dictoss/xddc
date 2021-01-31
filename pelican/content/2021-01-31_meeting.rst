@@ -1,0 +1,12 @@
+もくもく会を開催しました
+#########################
+
+:date: 2021-01-31 18:45
+:modified: 2021-01-31 18:45
+:tags: camp
+:category: camp
+:slug: 2020-01-31_meeting
+:authors: dictoss@live.jp
+:summary: もくもく会を開催しました
+
+`ディストリビューション開発もくもく会 2021年1月 <https://xddc.connpass.com/event/201437/>`_ を開催しました。
