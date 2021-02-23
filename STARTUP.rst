@@ -21,6 +21,9 @@ XDDC を初めるための準備
 
     - https://groups.google.com/forum/#!forum/trac-dev
 
+- 結論
+
+  - floss-os-jp@googlegroups.com を作成済
 
 ソースコード、wiki等のデータの保管場所
 ----------------------------------------------------------
