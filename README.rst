@@ -2,4 +2,5 @@
 xddc
 ================
 
-Cross Distribution Developer Camp
+Welcome to Cross Distribution Developer Camp Site.
+See https://dictoss.github.io/xddc/ .
