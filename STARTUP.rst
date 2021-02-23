@@ -1,5 +1,5 @@
 =====================================
-CDDC を初めるための準備
+XDDC を初めるための準備
 =====================================
 
 メーリングリスト
@@ -66,6 +66,6 @@ webサイト
 
 - プロトタイプ
 
-  - https://dictoss.github.io/cddc/
+  - https://dictoss.github.io/xddc/
 
-    - source code: https://github.com/dictoss/cddc/tree/master/docs
+    - source code: https://github.com/dictoss/xddc/tree/master/docs
