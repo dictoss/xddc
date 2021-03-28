@@ -1,0 +1,13 @@
+もくもく会を開催しました
+#########################
+
+:date: 2021-03-28 18:00
+:modified: 2021-03-28 18:00
+:tags: camp
+:category: camp
+:slug: 2021-03-28_meeting
+:authors: dictoss@live.jp
+:summary: もくもく会を開催しました
+
+`ディストリビューション開発もくもく会 2021年3月 <https://xddc.connpass.com/event/205542/>`_ を開催しました。
+参加者は 10 名でした。
