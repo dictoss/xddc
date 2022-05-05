@@ -1,0 +1,16 @@
+オープンデベロッパーズカンファレンス2021
+##############################################
+
+:date: 2021-08-28 23:00
+:modified: 2021-08-28 23:00
+:tags: osc
+:category: event
+:slug: 2021-08-28_odc2021
+:authors: dictoss@live.jp
+:summary: オープンデベロッパーズカンファレンス2021 に参加しました
+
+2021年8月28日に開催した `オープンデベロッパーズカンファレンス2021 Online <https://event.ospn.jp/odc2021-online/>`_ に参加しました。
+
+以下のセッションを行いました。
+
+- `Linux ディストリビューションのリリースの話 <https://event.ospn.jp/odc2021-online/session/392935>`_
