@@ -27,6 +27,10 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 DEFAULT_PAGINATION = 10
+PAGINATION_PATTERNS = (
+    (1, '{url}', '{save_as}'),
+    (2, '{base_name}/page/{number}/', '{base_name}/page/{number}/index.html'),
+)
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
