@@ -1,0 +1,13 @@
+もくもく会を開催しました
+#########################
+
+:date: 2022-06-19 18:50
+:modified: 2022-06-19 18:50
+:tags: camp
+:category: camp
+:slug: 2022-06-19_meeting
+:authors: dictoss@live.jp
+:summary: もくもく会を開催しました
+
+`ディストリビューション開発もくもく会 2022年6月 <https://xddc.connpass.com/event/247275/>`_ を開催しました。
+参加者は 8 名でした。
