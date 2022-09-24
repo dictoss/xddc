@@ -1,0 +1,16 @@
+オープンデベロッパーズカンファレンス2022
+##############################################
+
+:date: 2022-09-03 23:00
+:modified: 2022-09-03 23:00
+:tags: osc
+:category: event
+:slug: 2022-09-03_odc2022
+:authors: dictoss@live.jp
+:summary: オープンデベロッパーズカンファレンス2022 に参加しました
+
+2022年9月3日に開催した `オープンデベロッパーズカンファレンス2022 Online <https://event.ospn.jp/odc2022-online/>`_ に参加しました。
+
+以下のセッションを行いました。
+
+- `【MTG】Linux ディストリビューション開発の近況 <https://event.ospn.jp/odc2022-online/session/649126>`_
