@@ -1,0 +1,25 @@
+オープンソースカンファレンス 2023 Online/Spring
+#####################################################
+
+:date: 2023-03-07 23:00
+:modified: 2023-03-07 23:00
+:tags: osc
+:category: event
+:slug: 2023-03-07_osc2023online
+:authors: dictoss@live.jp
+:summary: オープンデベロッパーズカンファレンス 2023 Online/Spring に参加します
+
+2023年3月11日(土)に開催する `オープンソースカンファレンス 2023 Online/Spring <https://event.ospn.jp/osc2023-online-spring/>`_ にCross Distro Developers Campが参加します。
+
+16:00からセッション「`【MTG】Linux ディストリビューション開発の近況 <https://event.ospn.jp/osc2023-online-spring/session/810833>`_ 」をオンライン配信する予定です。聴講する場合は `connpassの登録ページ <https://ospn.connpass.com/event/267866/>`_ からお申し込みください。みなさまのご参加をお待ちしております。
+
+セッション概要
+============================
+
+- Cross Distro Developers Camp はLinuxディストリビューション横断で開発者が集まり、共通課題の解決を目指し、合宿やもくもく会を行っているコミュニティです。
+- 本ミーティングでは、各Linuxディストリビューションの開発者が集まり、簡単にそれぞれのディストリビューションを紹介した後、最近の開発について話します。参加者からの質問や話して欲しい内容のリクエストも募集しています。また、今回からMIRACLE Linux が参加するので、 MIRACLE Linux の開発についても聞いていきます。
+- 参加予定ディストリビューション（飛び入り歓迎）
+    - Debian：杉本 典充(すぎもと のりみつ)
+    - MIRACLE Linux：弦本 春樹(つるもと はるき)
+    - openSUSE：武山 文信(たけやま ふみのぶ)
+    - Ubuntu：柴田 充也(しばた みつや)
