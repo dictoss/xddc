@@ -1,0 +1,13 @@
+もくもく会を開催しました
+#########################
+
+:date: 2023-01-28 19:00
+:modified: 2023-01-28 19:00
+:tags: camp
+:category: camp
+:slug: 2023-01-28_meeting
+:authors: dictoss@live.jp
+:summary: もくもく会を開催しました
+
+`ディストリビューション開発もくもく会 2023年2月(開催日は1月) <https://xddc.connpass.com/event/271664/>`_ を開催しました。
+参加者は 4 名でした。
