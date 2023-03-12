@@ -22,7 +22,7 @@ Welcome to Cross Distro Developers Camp
 
 - `connpass - Cross Distro Developers Camp <https://xddc.connpass.com/>`_
 
-メンバーは以下のディストリビューションやデスクトップ環境に関わる人たちが活動しています。
+この活動には以下のディストリビューションやデスクトップ環境に関わる人たちが参加しています。
 
 - `日本openSUSEユーザ会 <https://opensuse.geeko.jp/>`_ のメンバー
 - `東海道らぐ <https://tokaidolug.colorfultime.net/>`_ のメンバー
