@@ -22,10 +22,11 @@ Welcome to Cross Distro Developers Camp
 
 - `connpass - Cross Distro Developers Camp <https://xddc.connpass.com/>`_
 
-メンバーは以下のディストリビューションやデスクトップ環境に関わる人が活動しています。
+メンバーは以下のディストリビューションやデスクトップ環境に関わる人たちが活動しています。
 
 - `日本openSUSEユーザ会 <https://opensuse.geeko.jp/>`_ のメンバー
 - `東海道らぐ <https://tokaidolug.colorfultime.net/>`_ のメンバー
-- `DebianJP <https://www.debian.or.jp/>`_ のメンバー
+- `Debian JP Project <https://www.debian.or.jp/>`_ のメンバー
 - `Ubuntu Japanese Team <https://www.ubuntulinux.jp/>`_ のメンバー
 - `LibreOffice Japanese Team <https://wiki.documentfoundation.org/JA/Team>`_ のメンバー
+- ディストリビューションやデスクトップ環境に興味がある有志の方
