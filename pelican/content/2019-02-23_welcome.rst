@@ -2,14 +2,14 @@ Welcome to Cross Distro Developers Camp
 ########################################################
 
 :date: 2019-02-23 23:00
-:modified: 2019-02-23 23:00
+:modified: 2023-03-12 10:00
 :tags: introduction
 :category: introduction
 :slug: 2019-02-23_welcome
 :authors: dictoss@live.jp
 :summary: Welcome to Cross Distro Developers Camp
 
-ディストリビューションの開発を行っている開発者やユーザが集まる場として「Cross Distro Developers Camp」を立ち上げました。
+ディストリビューションの開発を行っている開発者やユーザが集まる場として「Cross Distro Developers Camp」(略称:XDDC) を立ち上げました。
 
 主にディストリビューション共通の悩みである以下の諸問題を解決する場として活用しています。
 
@@ -17,6 +17,10 @@ Welcome to Cross Distro Developers Camp
 - 翻訳
 - かな漢字変換エンジン
 - インプットメソッド
+
+勉強会の開催は以下のサイトで行っていますので、お気軽にご参加ください。
+
+- `connpass - Cross Distro Developers Camp <https://xddc.connpass.com/>`_
 
 メンバーは以下のディストリビューションやデスクトップ環境に関わる人が活動しています。
 
