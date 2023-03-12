@@ -1,0 +1,22 @@
+もくもく会を開催しました
+#########################
+
+:date: 2023-03-12 18:00
+:modified: 2023-03-12 18:00
+:tags: camp
+:category: camp
+:slug: 2023-03-12_meeting
+:authors: dictoss@live.jp
+:summary: もくもく会を開催しました
+
+`ディストリビューション開発もくもく会 2023年3月 <https://xddc.connpass.com/event/273660/>`_ を開催しました。
+参加者は 7 名でした。
+
+参加者は各自で以下の作業を行い、参加者同士で意見交換をしました。
+
+- bazel 3.2 では mozc をビルドできなかったため最新に近い 6 にすると今度は fcitx-mozc がビルドできないという状態になった。その先どうするか検討中。
+- gnucashの翻訳、DDTSS の更新
+- Debian パッケージの説明文の翻訳した。xddc の Web サイトに about us ページがないため作成した。fedora の anthy-unicode.git の内容を確認。IM 関連の昔の記事をインターネットで検索して中身を確認して勉強中。
+- samba 4.18.0 の翻訳済みであったドキュメントを本日公開した。linux-jm の whois の修正を検討中だが、OSDN の ML が 不調な模様。
+- openSUSE 15.4 向けの upgrade 情報を更新した。OSC 2023 Online/Spring の資料を OSC 事務局に送付した。今後動画確認依頼が来る想定。LF 翻訳の注意事項を確認中。
+- 日経 Linux 向けの原稿を執筆
