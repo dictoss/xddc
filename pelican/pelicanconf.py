@@ -77,4 +77,5 @@ MENU_INTERNAL_PAGES = (
 MENUITEMS = (
     #('GitHub', 'https://github.com/'),
     #('Linux Kernel', 'https://www.kernel.org/'),
+    ('About', '/xddc/2019-02-23_welcome.html'),
 )

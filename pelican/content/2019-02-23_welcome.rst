@@ -2,9 +2,9 @@ Welcome to Cross Distro Developers Camp
 ########################################################
 
 :date: 2019-02-23 23:00
-:modified: 2023-03-12 10:00
-:tags: introduction
-:category: introduction
+:modified: 2023-03-12 11:00
+:tags: about
+:category: about
 :slug: 2019-02-23_welcome
 :authors: dictoss@live.jp
 :summary: Welcome to Cross Distro Developers Camp
