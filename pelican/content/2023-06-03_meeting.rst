@@ -1,0 +1,35 @@
+もくもく会を開催しました
+######################################
+
+:date: 2023-06-03 18:00
+:modified: 2023-06-03 18:00
+:tags: camp
+:category: camp
+:slug: 2023-06-03_meeting
+:authors: dictoss@live.jp
+:summary: もくもく会を開催しました
+
+`ディストリビューション開発もくもく会 2023 年 6 月 <https://xddc.connpass.com/event/283965/>`_ を開催しました。
+参加者は 8 名でした。
+
+参加者は各自で以下の作業を行い、参加者同士で意見交換をしました。
+
+- 最近増えた新規参加者向けに自己紹介をした
+    - openSUSE から 3 名、Debian から 2 名、Satis から 1 名、Rocky から 1 名、Ubuntuから 1 名
+- ibus が openSUSE Leap 15.5 で起動しない問題は、systemd xdg autostart によるものであったため、ibus-daemon の起動方法を KDE 向けに修正した
+- マルチディスプレイで Mozc の候補ウィンドウがおかしい問題は、Mozc チームでも修正してもらった
+- 2023/06/10にリリース予定の Debian 12 bookworm のリリースノートの翻訳レビューを行った
+- Debian パッケージ説明文の翻訳
+- www.debian.or.jp のビルド方法リニューアル版の動作確認作業
+- irc.debian.or.jp を OFTC へ移転するための情報収集、まとめページを作成 
+- openSUSE Asia Summit の CfP 関連の対応
+- openSUSE Leap 15.5 のリリースノートの修正準備
+- 前回、状況がよくわからなかった MATE MENU の問題は、報告者と連絡をとれたため今後作業する
+- 独自にカスタマイズした calamares-settings-debian の Debian パッケージを作成した
+- かな漢字変換エンジン「ANYA」関連の作業
+- OSC 名古屋ビデオツアー動画確認
+- Ubuntu Kaizen Project の棚卸し
+
+次回開催は、2023/07/09(日) 10:00-18:00 の予定です。
+
+- https://xddc.connpass.com/event/286227/
