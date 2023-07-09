@@ -1,0 +1,40 @@
+もくもく会を開催しました
+######################################
+
+:date: 2023-07-09 18:15
+:modified: 2023-07-09 18:15
+:tags: camp
+:category: camp
+:slug: 2023-07-09_meeting
+:authors: dictoss@live.jp
+:summary: もくもく会を開催しました
+
+`ディストリビューション開発もくもく会 2023 年 7 月 <https://xddc.connpass.com/event/286227/>`_ を開催しました。
+参加者は 8 名でした。
+
+参加者は各自で以下の作業を行い、参加者同士で意見交換をしました。
+
+- systemd-autostart-generator の不具合を修正し upstream へ Pull Request を送信した
+- Geeko Magazine に載せる予定の記事のレビュー
+- Geeko Magazine の openSUSE Leap 15.5 の記事のための情報収集
+- Debian 12 bookwork の Emacs 28 で XIM のカーソル位置がおかしい原因調査
+- 6/24(土) に開催した OSC 2023 北海道の出展者向けアンケートの回答
+- 7/15(土) の Debian 勉強会の準備
+- HP EliteBook 830 G6 に Debian 12 bookworm をインストールし、Debian Wikiにレポートを作成
+- openSUSE Asia Summit の CfP の日本語訳
+- Geeko Magazien の執筆
+- ibus-anya の設計
+- ANYA 変換の高速化 (モデルの修正)
+- ceph のテスト
+- Immutable Desktop の調査
+- ODC 2023 (8/25-26) について相談
+
+  - そもそも参加するかどうか：参加する (土曜日)
+  - 申し込む：hashimotosyuta
+  - Upstream と派生ディストリビューションの話？
+  - ハンズオン (各種ディストリビューションのパッケージング)
+  - 誰か呼んで発表してもらう？
+
+次回開催は、2023/08/06(日) 10:00-18:00 の予定です。
+
+- https://xddc.connpass.com/event/289858/
