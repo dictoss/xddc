@@ -3,8 +3,8 @@
 
 :date: 2020-01-11 23:00
 :modified: 2020-01-11 23:00
-:tags: camp
-:category: camp
+:tags: meeting
+:category: meeting
 :slug: 2020-01-11_meeting
 :authors: dictoss@live.jp
 :summary: もくもく会を開催しました

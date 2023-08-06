@@ -3,8 +3,8 @@
 
 :date: 2021-02-23 18:20
 :modified: 2021-02-23 18:20
-:tags: camp
-:category: camp
+:tags: meeting
+:category: meeting
 :slug: 2021-02-23_meeting
 :authors: dictoss@live.jp
 :summary: もくもく会を開催しました
