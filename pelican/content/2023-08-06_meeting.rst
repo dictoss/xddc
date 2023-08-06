@@ -1,0 +1,34 @@
+もくもく会を開催しました
+######################################
+
+:date: 2023-08-06 18:00
+:modified: 2023-08-06 18:00
+:tags: camp
+:category: camp
+:slug: 2023-08-06_meeting
+:authors: dictoss@live.jp
+:summary: もくもく会を開催しました
+
+`ディストリビューション開発もくもく会 2023 年 8 月 <https://xddc.connpass.com/event/289858/>`_ を開催しました。
+参加者は 8 名でした。
+
+参加者は各自で以下の作業を行い、参加者同士で意見交換をしました。
+
+- M5StickC のハンズオン向けの準備
+- IBus-1.5.29 の beta 版の評価
+- OSC 2023 北海道の Debian の出展レポートの提出
+- ODC 2023 向けの Debian 紹介資料を作成
+- 東京エリア Debian 勉強会の Web サイトへの OSC 東京イベントページ追加
+- 8/19(土)の Debian 勉強会の発表準備 (Debian の各種 32bit アーキテクチャーどうなるの？という話)
+- 8/19(土)の Debian 勉強会の発表準備 (Debian Live Build 話)
+- Emacs 28 の uim 問題の調査。Xlib バグについて fcitx がどう対応しているか調べている
+- ibus-anya が手元の環境で動くようになった
+- openSUSE に NVIDA ドライバのインストール方法をブログにまとめた
+- ANYA の辞書ファイルを protobuf に移行する
+- Samba の 4.19.0-rc0 のマニュアルの翻訳を 2/3 ぐらい完了し、あとは差分が多い smb.conf が残件
+- ODC 2023 向けの Ubuntu 紹介資料を作成
+- Ubuntu Weekly Recipe 向けに ACME の調査
+
+次回開催は、2023/09/10(日) 10:00-18:00 の予定です。
+
+- https://xddc.connpass.com/event/292602/
