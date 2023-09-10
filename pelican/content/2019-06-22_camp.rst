@@ -2,11 +2,14 @@
 #########################
 
 :date: 2019-06-23 23:00
-:modified: 2019-06-23 23:00
+:modified: 2019-12-10 23:00
 :tags: camp
 :category: camp
 :slug: 2019-06-22_camp
 :authors: dictoss@live.jp
 :summary: 2019夏合宿を開催しました
 
-2019夏合宿を開催しました。
+2019夏合宿を2023/9/21(金)-23(日)の日程で開催しました。場所は神奈川県三浦市にある `マホロバマインズ三浦 <https://www.maholova-minds.com/>`_ 様で、この合宿にopenSUSE、Ubuntu、Debian、LibreOfficeで活動している方々が参加しました。
+
+- 合宿参加レポート
+    - `Cross Distro Developers Camp 2019 春いってきました（今更） <https://blog.geeko.jp/syuta-hashimoto/2437>`_

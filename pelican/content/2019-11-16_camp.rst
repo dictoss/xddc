@@ -2,11 +2,14 @@
 #########################
 
 :date: 2019-11-16 15:00
-:modified: 2019-11-16 15:00
+:modified: 2019-12-17 23:00
 :tags: camp
 :category: camp
 :slug: 2019-11-16_camp
 :authors: dictoss@live.jp
 :summary: 2019秋合宿を開催しました
 
-2019秋合宿を開催しました
+2019秋合宿を2019/11/16(土)-17(日)の日程で開催しました。場所は神奈川県真鶴町にある `ペンションＳＨＩＯＳＡＩ <https://shiosai-resort.com/>`_ 様で、この合宿にはopenSUSE、Ubuntu、Debian、LibreOfficeで活動している方々が参加しました。
+
+- 合宿参加レポート
+    - `Cross Distro Developers Camp 2019 秋 行ってきました <https://blog.geeko.jp/syuta-hashimoto/2475>`_
