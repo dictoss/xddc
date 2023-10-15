@@ -1,0 +1,37 @@
+もくもく会を開催しました
+######################################
+
+:date: 2023-10-15 18:15
+:modified: 2023-10-15 18:15
+:tags: meeting
+:category: meeting
+:slug: 2023-10-15_meeting
+:authors: dictoss@live.jp
+:summary: もくもく会を開催しました
+
+`ディストリビューション開発もくもく会 2023 年 10 月 <https://xddc.connpass.com/event/296162/>`_ を開催しました。
+参加者は 7 名でした。
+
+参加者は各自で以下の作業を行い、参加者同士で意見交換をしました。
+
+- openSUSE.Asia Summit 2023 の発表準備
+- openSUSE.Asia Summit 2023 への旅行準備
+- Mozc の画面外座標でクラッシュする問題を修正し、Pull Request の送信準備中
+- Mozc は座標で Pixel Ratio を見ておらず、Scaling や dpi を変更している環境では異なる場所に出てしまう問題の調査
+- samba-jp の翻訳リポジトリを svn から git に移行するためのお手伝い
+- samba-jp の翻訳リポジトリを git へ変換した後にサーバへ push しようとして四苦八苦している
+- www.debian.org の「作業ガイド」ページの翻訳を更新
+- www.debian.org の「フリーとは」ページの翻訳を作業中
+- Debian JP の www の リリース情報ページを更新
+- Debian JP の www に OSC 2023 Tokyo/Fall の情報ページを追加
+- OSC 2023 Tokyo/Fall で展示する Debian マシンの準備
+- Debian JP が運営する IRC を OFTC に移行する提案のメールを送った
+- 新たな展示のネタ探し（RISC-V64ボード？）
+- fcitx の使用感の調査
+- uim を gtk4 対応するための準備作業（upstream のソースコードとビルド手順の確認）
+- Ubuntu 23.04 のリリースノートの翻訳準備
+- Ubuntu の FDE 機能の確認
+  
+次回開催は、2023/11/05(日) 10:00-18:00 の予定です。
+
+- https://xddc.connpass.com/event/299497/
