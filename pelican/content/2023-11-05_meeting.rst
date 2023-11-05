@@ -1,0 +1,33 @@
+もくもく会を開催しました
+######################################
+
+:date: 2023-11-05 18:15
+:modified: 2023-11-05 18:15
+:tags: meeting
+:category: meeting
+:slug: 2023-11-05_meeting
+:authors: dictoss@live.jp
+:summary: もくもく会を開催しました
+
+`ディストリビューション開発もくもく会 2023 年 11 月 <https://xddc.connpass.com/event/299497/>`_ を開催しました。
+参加者は 7 名でした。
+
+参加者は各自で以下の作業を行い、参加者同士で意見交換をしました。
+
+- openSUSE.Asia Summit 2023 のレポートを作成・投稿した
+    - 投稿1: https://blog.geeko.jp/ftake/3230
+    - 投稿2: https://blog.geeko.jp/syuta-hashimoto/3283
+- openSUSE 15.6 の systemd のバージョン確認
+- Mozc Renderer が Qt6 になって座標がおかしくなった件について、座標系を調べる Qt プログラムを作成し確認した
+- https:/www.debian.org 作業ガイド翻訳更新
+- Debian JP の IRC 移行の準備 (OFTC の利用規約の確認)
+- Debian 勉強会で利用する etherpad サーバーを Debian 12 へアップグレード
+- VisionFive 2 で Debian unstable の riscv64 版を起動できるようにした
+- 小江戸らぐの発表資料の作成
+- ibus-anya の設計 (ibus-anthy を参考に)
+- ワードベクトルの 64bit 化
+- 手持ちの svn リポジトリを GitHub へ移行して知見を深めた  
+
+次回開催は、2023/12/03(日) 10:00-18:00 の予定です。
+
+- https://xddc.connpass.com/event/301482/
