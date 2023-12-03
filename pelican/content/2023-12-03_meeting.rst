@@ -1,0 +1,35 @@
+もくもく会を開催しました
+######################################
+
+:date: 2023-12-03 18:00
+:modified: 2023-12-03 18:00
+:tags: meeting
+:category: meeting
+:slug: 2023-12-03_meeting
+:authors: dictoss@live.jp
+:summary: もくもく会を開催しました
+
+`ディストリビューション開発もくもく会 2023 年 12 月 <https://xddc.connpass.com/event/301482/>`_ を開催しました。
+参加者は 7 名でした。
+
+参加者は各自で以下の作業を行い、参加者同士で意見交換をしました。
+
+- Geeko Magazine 向け記事のレビューを行った
+- openSUSE Update を書いた
+- Lubos の Leap Micro に NextCloud インストールハンズオンの内容確認
+- https://www.debian.org/intro/free.en.html を翻訳中。英語のニュアンスをうまく日本語化するところで苦労中
+- Debian JP の IRC サーバーの移設作業、OTFC のチャンネル管理者を探している
+- 日本語の形態素解析に関する勉強のための方法論を調査中
+- Geeko Magazine の原稿を修正・提出
+- openSUSE Advent Calendar 用の記事執筆
+- Slack のアカウント用の写真の準備
+- ANYA のクライアントを作った
+- ANYA の Dockerfile の作成
+- ibus-anya の調査
+- DKMS に関する記事の執筆
+- Linux User C103 の記事を書いた
+- Till Kamppeter も寄稿している OpenPrinting News November を翻訳中
+
+次回開催は、2024/01/08(月・祝日) 10:00-18:00 の予定です。
+
+- https://xddc.connpass.com/event/304280/
