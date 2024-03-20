@@ -1,0 +1,46 @@
+もくもく会を開催しました
+######################################
+
+:date: 2024-03-20 18:00
+:modified: 2024-03-20 18:00
+:tags: meeting
+:category: meeting
+:slug: 2024-03-20_meeting
+:authors: dictoss@live.jp
+:summary: もくもく会を開催しました
+
+`ディストリビューション開発もくもく会 2024 年 3 月 <https://xddc.connpass.com/event/311241/>`_ を開催しました。
+参加者は 9 名でした。
+
+参加者は各自で以下の作業を行い、参加者同士で意見交換をしました。
+
+- ibus-senn のコンパイル状況確認
+- Raspberry Pi OS のバージョンが上がって使い方がわからないという話があったためイメージの中身を確認した
+- Debian 11 -> 12 へアップグレードした後に日本語入力ができなくなったという報告の再現性を確認した（再現しない）
+- uim の Qt6 対応開発
+- 今週末の小江戸らぐの資料作成を行った
+- ノート PC にインストールした openSUSE がセキュアブートを有効にするとなぜか立ち上がらない事象の調査
+- ibus-anya の 設計実装 (えりりを削除)
+- ANYA 辞書の CSV 対応
+- ANYA 向けの Trie 部の実装
+- Ubuntu 24.04 LTS 向けに gnome-initial-setup と gnome-control-centerの翻訳
+- LEAP 15.6 Beta リリースを国内向けにアナウンス
+- LEAP 15.6 Beta のテスト
+- 最新の Mozc のビルド
+- FOSSASIA のスライド (Windows の driver-less printing と Linux の対応について)
+- Windows の Canary 版にして、上記を試そうとしたが印刷ができなくなった
+- KDE の翻訳手順を調べて翻訳中 (正しい po ファイルを発掘するところで難航)
+- Debian JP Project の選挙期間中のため、投票した
+- OSC 2024 Tokyo/Spring (浅草) の XDDC ステージ発表の `報告記事 </xddc/2024-03-10_osc2024.html>`_ を作成
+- 2024 年 4 月の Debian 勉強会の準備 (2024/4/20(土)開催予定)
+- debian.org の DPL 選挙の立候補者の資料を確認
+- debian.or.jp IRCサーバの利用を irc.debian.org へ移行する伺いメールを送信した
+- Fedora COPR を使ったビルドの CI の調査
+- Fedora の git を見るとソースや SRPM そのものは置いておらずハッシュ値のみを見ている、GitLab ではうまくいかないため中断
+- Fedora COPR の Webhook で GitLab と連携の準備、いろいろはまりどころが多かったがビルドできるようになった
+- 月末イベント向けのスライド作り
+- openSUSE から sakura へ IMAP 接続テストを行った
+
+次回開催は、2024/04/14(日) 10:00-18:00 の予定です。
+
+- https://xddc.connpass.com/event/309642/
