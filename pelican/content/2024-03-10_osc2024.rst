@@ -1,0 +1,27 @@
+オープンソースカンファレンス 2024 Tokyo/Spring 
+##############################################
+
+:date: 2024-03-10 23:00
+:modified: 2024-03-10 23:00
+:tags: osc
+:category: event
+:slug: 2024-03-10_osc2024
+:authors: dictoss@live.jp
+:summary: オープンソースカンファレンス 2024 Tokyo/Spring に参加しました
+
+2024年3月10日に開催した `オープンソースカンファレンス 2024 Tokyo/Spring <https://event.ospn.jp/osc2024-spring/>`_ に Cross Distro Developers Camp が特設ステージでプレゼンテーションを行いました。
+
+参加概要
+============================
+
+- Cross Distro Developers Camp はLinux ディストリビューション横断で開発者が集まり、共通課題の解決を目指し、合宿やもくもく会を行っているコミュニティです。
+- 本プレゼンテーションでは、各Linuxディストリビューションの開発者が集まり、簡単にそれぞれのディストリビューションを紹介した後、最近の開発状況の説明や開発への参加の仕方、参加者からの質問にお答えしながら進行しました。
+- 参加ディストリビューション
+    - `Debian <https://www.debian.or.jp/>`_ ：杉本 典充(すぎもと のりみつ)
+    - `openSUSE <https://opensuse.geeko.jp/>`_ ：武山 文信(たけやま ふみのぶ)
+    - `Ubuntu <https://www.ubuntulinux.jp/>`_ ：柴田 充也(しばた みつや)
+    - `Miracle Linux <https://www.miraclelinux.com/>`_ ：吉田 俊輔 (よしだ しゅんすけ)
+- 動画配信ページ
+    - `YouTube - Cross Distro Developers Camp「開発の近況・開発者募集」(41分間) <https://www.youtube.com/watch?v=SK_Kore7p_4>`_
+- もしご興味いただき活動を見てみたい方は、定期的に開催しているもくもく会に参加してみてください。お待ちしています！
+    - `connpass - Cross Distro Developers Camp <https://xddc.connpass.com/>`_
