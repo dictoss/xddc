@@ -1,0 +1,50 @@
+もくもく会を開催しました
+######################################
+
+:date: 2024-05-04 18:30
+:modified: 2024-05-04 18:30
+:tags: meeting
+:category: meeting
+:slug: 2024-05-04_meeting
+:authors: dictoss@live.jp
+:summary: もくもく会を開催しました
+
+`ディストリビューション開発もくもく会 2024 年 5 月 <https://xddc.connpass.com/event/316388/>`_ を開催しました。
+参加者は 10 名でした。
+
+参加者は各自で以下の作業を行い、参加者同士で意見交換をしました。
+
+- オススメされた Visual Studio Code の勉強＆いくつか拡張試してみたものの、key bindings の違いに対応できずに撃沈
+- DebConf24 の申込み
+- Raspberry Pi Zero 2 W 上で Raspberry Pi OS 12 armhf を動かしていると VNC 接続が動かない件について調査
+    - 64bit 版(arm64) は問題なく動作するが、 `32bit 版(armhf) は壊れている模様 <https://github.com/raspberrypi/bookworm-feedback/issues/41>`_
+    - VNC は Wayland 版と Xorg 版の 2 種類があり、機種によっては Wayland 版は使われていないらしい
+- uim の gtk4 対応のための調査
+- openSUSE.Asia Summit 2024 のホスト案内の Pull Request を送った
+- ibus-anya のために CMake 学習中
+- Linux Foundation 関連の作業
+- Go 言語を Docker でビルドしようと作業していた (結局、Go 言語を使わなくてよくなった)
+- ANYA モデル読み込み C++ 対応
+- Ubuntu の次世代イメージビルダーである imagecraft の調査
+- Ubuntu の既存の ISO イメージ作成ツールの内容確認と、サイズ削減方法の調査
+- openSUSE.Asia Summit 2024 のアナウンス用の写真作成
+- 技書博関連の準備
+- openSUSE 向けの Mozc のバージョンアップ作業
+- peco の不具合の調査
+- Kubuntu 環境の準備
+- COSCUP の Proposal の提出
+- COSCUP の旅行準備
+- CPUS の翻訳 (37% 程度完了)
+- Debian 勉強会 Web サイトの更新 (5/18勉強会ページの追加)
+- リリースしたばかりのUbuntu 24.04 LTS のインストール
+- www.debian.or.jp の web サイト刷新プロトタイプ版の CI 作成＆サイト公開
+- digimend-dkms 13-1 を unstable にアップロードした
+- Debian で抱えていたパッチ (skip-without-CONFIG_USB_HID.patch) を upstream へフィードバックした
+- Debian で抱えていたパッチ (udev-udevdir.patch)を upstream へフィードバックした
+- Debian でパッケージがメンテナンスされている旨をコメントしておいた
+- libhinawa 4.0.2-1 を unstable へアップロードした
+- bookworm で Yocto 開発環境の構築とビルド
+
+次回開催は、2024/06/09(日) 10:00-18:00 の予定です。
+
+- https://xddc.connpass.com/event/318221/
