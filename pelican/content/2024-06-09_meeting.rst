@@ -1,0 +1,44 @@
+もくもく会を開催しました
+######################################
+
+:date: 2024-06-09 18:30
+:modified: 2024-06-09 18:30
+:tags: meeting
+:category: meeting
+:slug: 2024-06-09_meeting
+:authors: dictoss@live.jp
+:summary: もくもく会を開催しました
+
+`ディストリビューション開発もくもく会 2024 年 6 月 <https://xddc.connpass.com/event/318221/>`_ を開催しました。
+参加者は 9 名でした。
+
+参加者は各自で以下の作業を行い、参加者同士で意見交換をしました。
+
+- C104 向けの原稿ネタ (Proxmox のクラスタ) の大枠を書き終えた
+- ちなみに 2024/6/20 に Proxmox の LT 大会がある (詳細は JPmoxs で検索) ので、なにか話してくるかもしれない
+- ibus-senn のパッケージングの状況確認
+- Librum を Debian で動くように調整するため調査した
+- uim gtk4 の対応
+- openSUSE.Asia Summit の Call for Sponsors 案内文面のレビューと修正
+- 小江戸らぐのイベントの準備
+- openSUSE mini Summit と Leap 15.6 のリリースパーティ準備 (7 月前半の見込み)
+- openSUSE の news-o-o のビルド
+- C104 向けに Linux でロシア語を入力する方法を調査
+- openSUSE.Asia Summit の残タスクを確認
+- openSUSE.Asia Summit の発表募集の日本語版を作成
+- openSUSE Lean 15.6 のリリース情報のページの作成 (まもなくリリース)
+- openSUSE の Board メンバーにスポンサー費の確認
+- OSC 北海道の展示機材 (raspi-zero2w、VisionFive2) の準備
+- 6月 Debian 勉強会のイベント開催準備
+- www.debian.or.jp の 内部リニューアルにむけて開発作業
+- 1 月のもくもく会でやった Armadillo 移植作業をどこまでやったか思い出していた
+- U-Boot をビルドできるようにする作業を実施
+- U-Boot SPL (BL2) の起動失敗問題 (DDR training に失敗)
+- Librum reader のビルド
+- Librum reader の UI のテキストデータに日本語翻訳を行い適用
+- 日本語フォントが足りなくて困ったため SF Pro Display Font に統合する、統合する際のライセンス調査
+- LibreOffice 7.5 から使える DeepL の API を用いた翻訳機能を Debian 12 で試してみたが、LibreOffice のバージョンが古いため動かなかった (Flatpak 版では動いた)
+- Milk-V Duo を公式イメージで動かしてみた
+- Milk-V Duo のカメラの動画を配信するサンプルを試してみたが、動画を配信できているように見えるが受信は確認できなかった
+
+次回開催は、2024/07に開催予定で、日程調整中です。
