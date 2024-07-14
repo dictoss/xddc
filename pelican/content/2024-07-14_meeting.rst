@@ -1,0 +1,37 @@
+もくもく会を開催しました
+######################################
+
+:date: 2024-07-14 22:30
+:modified: 2024-07-14 22:30
+:tags: meeting
+:category: meeting
+:slug: 2024-07-14_meeting
+:authors: dictoss@live.jp
+:summary: もくもく会を開催しました
+
+`ディストリビューション開発もくもく会 2024 年 7 月 <https://xddc.connpass.com/event/324369/>`_ を開催しました。
+参加者は 10 名でした。
+
+参加者は各自で以下の作業を行い、参加者同士で意見交換をしました。
+
+- `C104 <https://www.comiket.co.jp/info-a/C104/C104Info.html>`_ に向けて Proxmox 記事の原稿を執筆
+- uim-gtk4 対応のために参考となる fcitx の gtk4 実装を調査
+- `openSUSE.Asia Summit 2024 <https://events.opensuse.org/conferences/oSAS24>`_ における学生ボランティア募集の資料作成
+- `openSUSE.Asia Summit 2024 <https://events.opensuse.org/conferences/oSAS24>`_ におけるスポンサーの方への依頼メールを作成
+- `openSUSE Leap 15.6 リリースノート <https://doc.opensuse.org/release-notes/x86_64/openSUSE/Leap/15.6/>`_ を修正
+- ロシア語の勉強
+- `COSCUP 2024 <https://coscup.org/2024/en/landing>`_ の発表資料の準備
+- `openSUSE.Asia Summit 2024 <https://events.opensuse.org/conferences/oSAS24>`_ に向けて過去に開催した関連イベントのスポンサー担当の方へ連絡
+- openSUSE Leap 15.6 リリースの記事を作成
+- 独自ディストリビューション作成に向けてタスクを整理中
+- `2024/7/20 開催予定の Debian勉強会 <https://tokyodebian-team.pages.debian.net/2024-07.html>`_ のイベント告知を実施
+- XDDCとして `ODC2024 <https://event.ospn.jp/odc2024/>`_ へ参加する準備を実施
+- `debconf24 <https://debconf24.debconf.org>`_ の wiki を確認
+- `C104 <https://www.comiket.co.jp/info-a/C104/C104Info.html>`_ 向けの Debian 勉強会まとめ本の原稿を精査
+- alma-sbom バグつぶし
+- `COSCUP 2024 <https://coscup.org/2024/en/landing>`_ 発表の準備
+- QGIS のために macOS 向け Qt5 のビルド作業を実施
+
+次回開催は、2024/08/18(日) 10:00-18:00 の予定です。
+
+- https://xddc.connpass.com/event/325324/
