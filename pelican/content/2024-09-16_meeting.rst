@@ -1,0 +1,36 @@
+もくもく会を開催しました
+######################################
+
+:date: 2024-09-16 18:15
+:modified: 2024-09-16 18:15
+:tags: meeting
+:category: meeting
+:slug: 2024-09-16_meeting
+:authors: dictoss@live.jp
+:summary: もくもく会を開催しました
+
+`ディストリビューション開発もくもく会 2024 年 9 月 <https://xddc.connpass.com/event/328457/>`_ を開催しました。
+参加者は 7 名でした。
+
+参加者は各自で以下の作業を行い、参加者同士で意見交換をしました。
+
+- openSUSE.Asia Summit の発表者の回答状況の確認
+- 同発表者の未回答者へのフォロー
+- uim を gtk4 に対応するために LibreOffice のソースコードなどを確認
+- Ubuntu における LUKS + dropbear によるリモートからの復号手順の記事を執筆
+- OliveLinux の GitHub の Usage へのキャプチャー画像を追加
+- 同フライヤー画像を GitHub の Docs に追加
+- ODC 2024 のセッション動画の内容チェック
+- Debian 勉強会 8 月の BoF まとめ
+- openSUSE.Asia Summit の会場を下見
+- openSUSE.Asia Summit の LT 募集告知を作成
+- OSC 2024 Tokyo/Fall 申込み（東海道らぐ）
+- Transformer CLM の調査
+- openSUSE.Asia Summit のコミュニティ出展募集フォームの作成
+- Apache HOP on Debian 12 を触ってみた
+- Pleasanter を Debian 12 でビルド・インストールしてみた
+- Pleasanter を Trisquel 11 にインストールしてみた
+- LibreOffice 24.8.1.2 がリリースされたため、Debian 12/Trisquel 11 で試した
+- mecab-skkserv を Debian 12 でビルドして試したものの mecab-0.996 では動かなさそう
+- Debian 12 における NuttX 開発環境を構築
+- OSC 2024 Tokyo/Fall 向けに postmarketOS の英語版リーフレットの草案を作成
