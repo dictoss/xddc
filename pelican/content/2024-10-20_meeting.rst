@@ -1,0 +1,29 @@
+もくもく会を開催しました
+######################################
+
+:date: 2024-10-20 18:00
+:modified: 2024-10-20 18:00
+:tags: meeting
+:category: meeting
+:slug: 2024-10-20_meeting
+:authors: dictoss@live.jp
+:summary: もくもく会を開催しました
+
+`ディストリビューション開発もくもく会 2024 年 10 月 <https://xddc.connpass.com/event/333073/>`_ を開催しました。
+参加者は 7 名でした。
+
+参加者は各自で以下の作業を行い、参加者同士で意見交換をしました。
+
+- openSUSE.Asia Summit の各種打ち合わせ
+- openSUSE.Asia Summit の配信用 PC のセットアップ
+- openSUSE.Asia Summit の弁当・懇親会の数量調整
+- openSUSE.Asia Summit の印刷物の調整
+- openSUSE.Asia Summit の発表資料を仕上げてレビューを依頼
+- openSUSE.Asia Summit 発表にむけたデータ集めと資料作成
+- OliveLinux のロゴ用画像のキャラクタ画像の雛形を作成
+- OliveLinux のインストール画像を 2 枚追加
+- Debian JP Project のスポンサー対応のミーティング
+- Windows 10 EOL のための Ubuntu 入門の記事執筆
+- uim gtk4 の調査
+
+次回開催は、2024/11/24(日) 10:00-18:00 の予定です。
