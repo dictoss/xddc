@@ -1,0 +1,35 @@
+openSUSE.Asia Summit 2024 に参加し、Cross-Distro トラックを共催しました
+#############################################################################################
+
+:date: 2024-11-03 23:00
+:modified: 2024-11-24 12:00
+:tags: osc
+:category: event
+:slug: 2024-11-03_osa2024ja
+:authors: dictoss@live.jp
+:summary: openSUSE.Asia Summit 2024 に参加し、Cross-Distro トラックを共催しました
+
+2024年11月2日〜3日に東京都港区の麻生台ヒルズにある `株式会社 SHIFT 様 <https://www.shiftinc.jp/>`_ を会場にして `openSUSE.Asia Summit 2024 <https://events.opensuse.org/conferences/oSAS24>`_ を開催しました。Cross Distro Developers Camp は openSUSE.Asia Summit 2024 のイベントの中で Cross-Distro トラックを共催しました。また、openSUSE.Asia Summit 2024 の運営スタッフとして参加しました。
+
+イベント概要
+============================
+
+- openSUSE Asia Summit は openSUSE ユーザーと貢献者、そして FLOSS 熱狂者のための年次カンファレンスです。これまでのサミットでは、主にインドネシア、中国、台湾、日本、韓国、インドから参加者を集めてきました。
+- 2014年に最初の openSUSE Asia Summit が北京で開催されてから、openSUSE Asia Summit はオンラインでつながったコミュニティが、対面で集まり、お互いを知り、openSUSE やその上で動作するアプリケーションについての知識と経験を共有する重要な機会でした。しかしながら、COVID-19 により、3年の間、これが難しい状況が続きました。今年のサミットのゴールの1つは、コミュニケーションのための場所を提供することになっています。
+- さらに、Cross Distro Developers Camp (XDDC) との共催で、Cross-Distro Track を開催します。XDDC は、openSUSE、Debian、Ubuntu などの FLOSS OS ディストリビューションの幅広い開発者コミュニティで、特に日本語に関して共通する問題を解決するために協力しています。今年は、他のディストリビューションコミュニティからのスピーカーや参加者の招聘も検討しています。
+- イベント詳細は以下のウェブサイトをご覧下さい
+    - https://events.opensuse.org/conferences/oSAS24
+    - https://opensuseja.connpass.com/event/325933/
+- イベントページや発表タイトル等、多くが英語となっていますが、日本語の発表（資料は英語）もあります。詳細は各発表の詳細ページを開き、Language をご確認ください。
+
+Cross-Distro トラックについて
+===========================================
+
+Cross-Distro トラックでは 15 本の発表を行いました。その中で Cross Distro Developers Camp に参加するメンバーから 3 名が発表しました。発表概要は以下の通りです。
+
+- `20th anniversary of Ubuntu and 20 years of Desktop Linux <https://events.opensuse.org/conferences/oSAS24/program/proposals/4869>`_ (柴田 充也(しばた みつや))
+    - `スライドファイル(Ubuntu) <https://speakerdeck.com/mtyshibata/20th-anniversary-of-ubuntu-and-20-years-of-desktop-linux>`_
+- `How I met the Debian JP study session and the openSUSE developer community in Japan. <https://events.opensuse.org/conferences/oSAS24/program/proposals/4854>`_ (杉本 典充(すぎもと のりみつ))
+    - `スライドファイル(Debian) <https://speakerdeck.com/dictoss/how-i-met-the-debian-jp-study-session-and-the-opensuse-developer-community-in-japan>`_
+- `Status of CJK language support and activities in LibreOffice 2024 <https://events.opensuse.org/conferences/oSAS24/program/proposals/4899>`_ (榎 真治(えのき しんじ))
+    - `スライドファイル(LibreOffice) <https://speakerdeck.com/enoki/status-of-cjk-language-support-and-activities-in-libreoffice-2024>`_
