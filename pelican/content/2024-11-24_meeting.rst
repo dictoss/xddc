@@ -1,0 +1,31 @@
+もくもく会を開催しました
+######################################
+
+:date: 2024-11-24 18:00
+:modified: 2024-11-24 18:00
+:tags: meeting
+:category: meeting
+:slug: 2024-11-24_meeting
+:authors: dictoss@live.jp
+:summary: もくもく会を開催しました
+
+`ディストリビューション開発もくもく会 2024 年 11月 <https://xddc.connpass.com/event/336773/>`_ を開催しました。
+参加者は 7 名でした。
+
+参加者は各自で以下の作業を行い、参加者同士で意見交換をしました。
+
+- Geeko Magazine の原稿の仕上げと提出、及び指摘事項の修正
+- Geeko Magazine 向けに Proxmox の話で追加 1 件を執筆中 (AVX 命令ありのバイナリがうまく動かないことがある話)
+- openSUSE.Asia Summit 発表者向け案内メールの送信
+- 最新版の Mozc をビルドする作業で、Bazel の新バージョン (bazel7) 向けの対応を見直し中
+- uim gtk4 対応の開発作業
+- XDDC のWeb サイトに openSUSE.Asia Summit に参加したページを作成
+- debconf を招致するために必要な提案書のテンプレートを作成し、周知
+- Debian JP Project の IRC サーバー変更の Web ページを作成
+- openSUSE.Asia Summit のレポートを作成
+- Ubuntu オフラインミーティングのレポートを作成
+- openSUSE.Asia Summit のツアーの会計まとめ作業と精算対応
+- IM 飲み会向けに ANYA transformer モデル v2 の実装
+- Samba AD DC 原稿のネタ集め (idmap 周り)
+
+次回開催は、`2024/12/22(日) 10:00-18:00 <https://xddc.connpass.com/>`_ の予定です。
