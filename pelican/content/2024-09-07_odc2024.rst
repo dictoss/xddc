@@ -2,7 +2,7 @@
 ##############################################
 
 :date: 2024-09-07 16:30
-:modified: 2024-09-07 16:30
+:modified: 2024-11-24 11:45
 :tags: osc
 :category: event
 :slug: 2024-09-07_odc2024
@@ -23,5 +23,5 @@
     - AlmaLinux：吉田 俊輔(よしだ しゅんすけ)
 - セッション紹介ページ
     - `Linux ディストリビューション開発の近況 <https://event.ospn.jp/odc2024/session/1634934>`_
-    - スライド資料（後日公開予定）
-    - セッション動画（後日公開予定）
+    - `セッション動画 <https://www.youtube.com/watch?v=uDwabzZrbqw>`_
+    - `スライド資料 <https://event.ospn.jp/odc2024/article/odc24_cddc>`_
