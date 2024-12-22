@@ -1,0 +1,39 @@
+もくもく会を開催しました
+######################################
+
+:date: 2024-12-22 18:30
+:modified: 2024-12-22 18:30
+:tags: meeting
+:category: meeting
+:slug: 2024-12-22_meeting
+:authors: dictoss@live.jp
+:summary: もくもく会を開催しました
+
+`ディストリビューション開発もくもく会 2024 年 12 月 <https://xddc.connpass.com/event/339344/>`_ を開催しました。
+参加者は 7 名でした。
+
+参加者は各自で以下の作業を行い、参加者同士で意見交換をしました。
+
+- openSUSE.Asia Summit 2024 の会計の確認
+- openSUSE.Asia Summit 2024 の記載レポート作成
+- anthy 向けの辞書ツールである kasumi の gcc 14 対応
+- trixie と sid で新しい mozc パッケージを試す中で、uim-mozc の動作確認の一貫として uim-qt6 をdebian パッケージ化した
+- uim の Qt6 対応パッチを作成し、アップストリームに取り込んでもらえた
+- Debian 勉強会の Web サイトの更新
+- Debian JP の IRC サーバ移転に伴うアナウンスメールの送信準備
+- Debian JP の OSC 2025 Tokyo/Spring の申し込み準備
+    - XDDC でも参加するかは Slack で相談する
+- 温泉合宿 in 箱根の XDDC 枠の申し込み
+- Debian unstable の mozc-2.29.5160.102 の動作確認
+- DebConf26 招致提案メールを送信
+- Olive Linux の不要アプリを消してビルドし直した
+- LF 関連で対応した作業に対する請求書を提出した
+- ボルネオの写真の整理と共有
+- OAuth / OpenID Connect の勉強
+- CentOS 7 から Rocky Linux または AlmaLinux へのアップグレードの検討
+- おがわさんから peco の使い方を教えてもらった
+- TECOC というテキストエディターについて調べた
+- LibreOffice 24.8.4 をインストールし、マクロの機能について確認した
+- `LibreOffice アドベントカレンダー <https://adventar.org/calendars/10771>`_ に記事を投稿した
+
+次回開催は、`2025/01/22(日) 10:00-18:00 <https://xddc.connpass.com/>`_ の予定です。
