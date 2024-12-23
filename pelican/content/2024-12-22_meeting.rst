@@ -31,7 +31,7 @@
 - ボルネオの写真の整理と共有
 - OAuth / OpenID Connect の勉強
 - CentOS 7 から Rocky Linux または AlmaLinux へのアップグレードの検討
-- おがわさんから peco の使い方を教えてもらった
+- おがさわらさんから peco の使い方を教えてもらった
 - TECOC というテキストエディターについて調べた
 - LibreOffice 24.8.4 をインストールし、マクロの機能について確認した
 - `LibreOffice アドベントカレンダー <https://adventar.org/calendars/10771>`_ に記事を投稿した
