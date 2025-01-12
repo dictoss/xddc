@@ -1,0 +1,35 @@
+もくもく会を開催しました
+######################################
+
+:date: 2025-01-12 18:15
+:modified: 2025-01-12 18:15
+:tags: meeting
+:category: meeting
+:slug: 2025-01-12_meeting
+:authors: dictoss@live.jp
+:summary: もくもく会を開催しました
+
+`ディストリビューション開発もくもく会 2025 年 1 月 <https://xddc.connpass.com/event/341575/>`_ を開催しました。
+参加者は 7 名でした。
+
+参加者は各自で以下の作業を行い、参加者同士で意見交換をしました。
+
+- みんなで openSUSE.Asia Summit 2024 Tokyo のレポート作成
+- openSUSE.Asia Summit 2025 の proposal に対する承認手続き
+- uim-qt6 のパッケージング対応、uim の最新版をビルドできた
+- DebConf26 招致の開催地評価会議の日程調整
+- Debian installer Trixie Alpha 1 の日本語翻訳進捗の確認 (完了していた)
+- Debian installer Trixie Alpha 1 でテキストモードと GUI モードを動作確認
+- debian 勉強会 2024/12 の BoF 記録をまとめた
+- debian 勉強会 2025/01 の司会用と発表用の資料作成
+- Debian DDTSS サイトで xinetd のパッケージ説明文の翻訳を修正
+- 暗号化ストレージの自動復号の設定手順をまとめた
+- OliveLinux において Emacs をデフォルトインストールするよう設定
+- reTerminal の動作確認 (Debian 12) を行い、最新版の libwc では日本語入力がうまく動かずデバッグ
+- Python 製の skk サーバと mozcpy で SKK の日本語多文節変換を試した
+- skk サーバの調査
+- 技書博向けの東海道らぐ本の作成
+
+次回開催は以下の合同合宿イベントに参加し、XDDC の合宿を行います。
+
+- `【ほっこり】温泉合宿 in 箱根【八回目】 2025/2/15(土)-2/16(日) <https://svrkcho.connpass.com/event/309773/>`_ (XDDC のメンバの一部は2/14に前泊して参加する方もいます)
