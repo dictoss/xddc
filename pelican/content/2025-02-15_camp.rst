@@ -1,0 +1,47 @@
+2025年2月合宿を開催しました
+######################################
+
+:date: 2025-02-15 22:00
+:modified: 2025-02-15 22:00
+:tags: camp
+:category: camp
+:slug: 2025-02-15_camp
+:authors: dictoss@live.jp
+:summary: 2025年2月合宿を開催しました
+
+2025 年 2 月合宿を 2024/02/15(土)の日程で
+`ディストリビューション開発もくもく会 2025 年 2 月 <https://xddc.connpass.com/event/342577/>`_
+を開催しました。参加者は 11 名でした。
+
+場所は神奈川県足柄下郡箱根町にある `KKR 箱根 宮の下 <https://miyanoshita.kkr.or.jp/>`_ 様で、
+`【ほっこり】温泉合宿 in 箱根【八回目】 <https://svrkcho.connpass.com/event/309773/>`_ の
+分科会として実施しました。
+
+この合宿には openSUSE、Ubuntu、Debian、LibreOffice で活動している方々、有志の方々が参加しました。
+
+参加者は各自で以下の作業を行い、参加者同士で意見交換をしました。
+
+- cLVM (LVM を分散環境で使えるもの) の調査。昔と状況がずいぶん変わっており、既存の資料が参考にならないように思える。Proxmox で動作を見ている。
+- OSC 2025 Tokyo/Spring のイベント開催に向けて openSUSE のブース担当者へ情報共有を行い、参加者向けへアナウンスを実施
+- コミュニティ向けの openSUSE.Asia Summit 開催報告の作成
+- bazel の新しいモジュールシステムである bazel module を、ディストリビューションのパッケージをビルドするために使えるようオフラインビルドの仕組みを検証
+- 日本語かな漢字変換エンジンである Anthy の辞書ツールである Kasumi の修正
+- uim-qt6 のパッケージング
+- uim をビルドする際に xgettext がエラーになってしまう問題の調査
+- debian 勉強会 2025/1 の BoF 記録まとめ
+- debian 勉強会 2025/3 の Web ページ作成
+- 現在コンペ中の DebConf26 日本招致の提案見直し (会場・予算部分)
+- MiniDebConf Japan 2025 (旭川) のスタッフ向けキックオフ資料作成
+- OSC 2025 Tokyo/Spring のスライド作成の調査 (Debian 関連、apt-listchanges)
+- OSC 2025 Tokyo/Spring のスライド作成 (Ubuntu 関連)
+- 印刷システムである CUPS-2.4 系の翻訳
+- reTerminal の Raspberry Pi OS の日本語入力を試していて、Wayland (Wayfire/Labwc) で変換候補ウィンドウがずれる問題の調査
+- Debian GNU/Hurd 2023 を VirtualBox の仮想マシンにネットインストールしてみた
+- Debian GNU/Hurd 2023 で Emacs 31 のビルドを試した
+- 温泉合宿の LT 資料の作成
+- SHIN かな漢字変換のデータセット実装
+- SHIN かな漢字変換の学習 model 実装
+- PyCon JP のサーバーで動いている Debian 向けの Ansible スクリプトを Debian 13 trixie に対応するように調整
+- OSC 2025 Tokyo/Spring の発表内容の音声部分を生成 AI を使って作成した
+
+次回開催は、`2025/03/16(日) 10:00-18:00 <https://xddc.connpass.com/event/346527/>`_ の予定です。
