@@ -1,0 +1,36 @@
+もくもく会を開催しました
+######################################
+
+:date: 2025-03-16 18:15
+:modified: 2025-03-16 18:15
+:tags: meeting
+:category: meeting
+:slug: 2025-03-16_meeting
+:authors: dictoss@live.jp
+:summary: もくもく会を開催しました
+
+`ディストリビューション開発もくもく会 2025 年 3 月 <https://xddc.connpass.com/event/346527/>`_ を開催しました。
+参加者は 6 名でした。
+
+参加者は各自で以下の作業を行い、参加者同士で意見交換をしました。
+
+- openSUSE.Asia Summit 2024 Tokyo の開催レポートの関係者への送付の準備
+- openSUSE 16.0 の状況を確認中
+- Mozc の Bazel mod 版のビルド方法の調査と意見交換 (本当にどうしよう)
+- Debian Installer Trixie Alpha 1 の翻訳状況を確認
+- Debian junior をインストールしてみると IceWM が使われており、日本語メニューがうまく表示されない問題を確認
+- Debian bookworm の KDE/Wayland の日本語入力がうまく動かなかったため、uim-qt5 Wayland を調査
+- 3/15 に開催した debian 勉強会の BoF まとめ
+- OSC 2025 北海道の旅行の下調べ
+- Debian trixie の翻訳依頼の進捗状況の確認
+- Debian trixie の翻訳とマージリクエスト送信 (samhain)
+- Debian JP Project の選挙対応
+- Debian 関連の国内イベントの日程調整 (4 月前半くらいに開催予定)
+- COSCUP 2025 のプロポーザルの作成と投稿
+- OSS 連合学習フレームワークの改造
+- OSC 名古屋のセミナー向けの字幕表示方法関連の調査
+- かな漢字変換モデル作成
+- かな漢字変換学習器作成
+- PeppermintOS の開発
+
+次回開催は、`2025/04/20(日) 10:00-18:00 <https://xddc.connpass.com/event/349418/>`_ の予定です。
