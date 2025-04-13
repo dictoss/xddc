@@ -1,0 +1,29 @@
+もくもく会を開催しました
+######################################
+
+:date: 2025-04-13 18:15
+:modified: 2025-04-13 18:15
+:tags: meeting
+:category: meeting
+:slug: 2025-04-13_meeting
+:authors: dictoss@live.jp
+:summary: もくもく会を開催しました
+
+`ディストリビューション開発もくもく会 2025 年 4 月 <https://xddc.connpass.com/event/349418/>`_ を開催しました。
+会場は東京の幡ヶ谷にある株式会社創夢様の会議室とオンラインのビデオ会議でハイブリッド開催し、参加者は 7 名でした。
+
+参加者は各自で以下の作業を行い、参加者同士で意見交換をしました。
+
+- OSC 名古屋の申し込み (openSUSE、東海道らぐ)
+- ibus-1.5.32 のパッケージングをしようとしたところ、glib のかなり新しいバージョンである glib-2.84.0 に依存していたため、いろいろ調査
+- mozc のオフラインビルド方法の調査。bazel mod における cache の仕組みを回避できる方法を模索中
+- uim-qt6 の Wayland 対応の調査。引き続き変換候補ウィンドウの位置がおかしいため、Wayland のプロトコルを調べている
+- Debian 勉強会 2025/4 の Web ページ作成と connpass の公開
+- MiniDebConf Japan 2025 の Web サイト作成
+- かな漢字変換コーパス作成ツールの実装
+- Qubes OS に Windows 10 の Qube (VM) を作成した
+- Qubes OS に Debian 13 の Qube (VM) を作ってみたものの、apt full-upgrade で起動しなくなった
+- Debian の Apache Arrow パッケージの状況を確認し、改めてビルドできるように調整中 (ローカルの debuild ではビルドできるが、pbuilder では失敗する状況)
+- Olive Linux に Emacs の設定ファイルを最初から含める作業を実施
+
+次回開催は、`2025/05/03(土) 10:00-18:00 <https://xddc.connpass.com/event/352286/>`_ の予定です。
