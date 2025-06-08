@@ -1,0 +1,32 @@
+もくもく会を開催しました
+######################################
+
+:date: 2025-06-08 18:15
+:modified: 2025-06-08 18:15
+:tags: meeting
+:category: meeting
+:slug: 2025-06-08_meeting
+:authors: dictoss@live.jp
+:summary: もくもく会を開催しました
+
+`ディストリビューション開発もくもく会 2025 年 6 月 <https://xddc.connpass.com/event/354539/>`_ を開催しました。
+会場は東京の幡ヶ谷にある株式会社創夢様の会議室とオンラインのビデオ会議でハイブリッド開催し、参加者は 6 名でした。
+
+参加者は各自で以下の作業を行い、参加者同士で意見交換をしました。
+
+- Debian パッケージ説明文 (DDTSS) の更新
+- Debian 13 trixie リリースノートの確認と翻訳
+- Debian installer trixie RC1 の翻訳確認
+- OSC 2025 島根・北海道の展示物の準備
+- MiniDebConf Japan 2025 のスポンサー募集開始メールの送信
+- MiniDebConf Japan 2025 の発表者募集の申請フォーム修正とメール文面作成
+- 6/14 の Debian 勉強会のイベント運営の準備
+- ESP32S3 向け Linux のビルド環境の調査と設定
+- M5CoreMP125 に Debian 12 bookworm をインストール
+- 上記に LibreOffice をインストールして動作確認
+- LibreOffice 25.2.4 がリリースしていたため試していた
+- COSCUP のスライド作成
+- 本日の別の勉強会で発表する OliveLinux の資料作成
+- heartbeat/corosync とquoram について勉強
+
+次回は、`2025年7月に開催する <https://xddc.connpass.com/>`_ 予定です。
