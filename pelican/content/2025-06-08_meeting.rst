@@ -2,7 +2,7 @@
 ######################################
 
 :date: 2025-06-08 18:15
-:modified: 2025-06-08 18:15
+:modified: 2025-06-20 23:40
 :tags: meeting
 :category: meeting
 :slug: 2025-06-08_meeting
@@ -29,4 +29,4 @@
 - 本日の別の勉強会で発表する OliveLinux の資料作成
 - heartbeat/corosync とquoram について勉強
 
-次回は、`2025年7月に開催する <https://xddc.connpass.com/>`_ 予定です。
+次回開催は、`2025/7/13(日) 11:00-18:00 <https://xddc.connpass.com/event/359412/>`_ の予定です。
