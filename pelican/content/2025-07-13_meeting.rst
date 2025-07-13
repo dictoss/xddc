@@ -1,0 +1,40 @@
+もくもく会を開催しました
+######################################
+
+:date: 2025-07-13 18:15
+:modified: 2025-07-13 23:40
+:tags: meeting
+:category: meeting
+:slug: 2025-07-13_meeting
+:authors: dictoss@live.jp
+:summary: もくもく会を開催しました
+
+`ディストリビューション開発もくもく会 2025 年 7 月 <https://xddc.connpass.com/event/359412/>`_ を開催しました。
+会場は東京の幡ヶ谷にある株式会社創夢様の会議室とオンラインのビデオ会議でハイブリッド開催し、参加者は 7 名でした。
+
+参加者は各自で以下の作業を行い、参加者同士で意見交換をしました。
+
+- fcitx5 の自動起動修正を rebase した
+- openSUSE 16.0 の問題を Bugzilla に登録
+- mozc の Debian における依存ライブラリの状況を確認
+- Debian Installer trixie RC 2 の翻訳とレビュー
+- DDTSS の翻訳とレビュー
+- Debian Installer の blend 関連の翻訳とレビュー (マージ済み)
+- OSC2025 Shimane 参加報告のまとめ作業
+- MiniDebConf Japan 2025 の移動の手配
+- Debian 勉強会の Web サイト更新
+- Debian JP Project 2024 年度活動報告のまとめ作業
+- Debian JP Project のミラーサーバの廃止連絡対応
+- MiniDebConf Japan 2025 の CFP の技術確認
+- Ubuntu で Claude Code を動かす方法のまとめ
+- OSC2025 Kyoto 向けの準備
+- openSUSE の夏コミ向け原稿のチェック
+- MiniDebConf Japan 2025の宿泊予約
+- Trisquel12 のアルファ版 ISO のインストールを試した
+- Android 16 (GrapheneOS) のターミナル機能 (Debia 12) を試した
+- COSCUP 2025 の発表資料作成
+- OliveLinux 向けの壁紙の再作成
+- CUPSの ja.po を Weblate へインポートする作業を行った
+- CUPS の翻訳
+
+次回開催は、`2025/8/23(土) 11:00-18:00 <https://xddc.connpass.com/event/362590/>`_ の予定です。
