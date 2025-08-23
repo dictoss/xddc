@@ -1,0 +1,35 @@
+もくもく会を開催しました
+######################################
+
+:date: 2025-08-23 18:15
+:modified: 2025-08-23 18:15
+:tags: meeting
+:category: meeting
+:slug: 2025-08-23_meeting
+:authors: dictoss@live.jp
+:summary: もくもく会を開催しました
+
+`ディストリビューション開発もくもく会 2025 年 8 月 <https://xddc.connpass.com/event/362590/>`_ を開催しました。
+会場は東京の幡ヶ谷にある株式会社創夢様の会議室とオンラインのビデオ会議でハイブリッド開催し、参加者は 9 名でした。
+
+参加者は各自で以下の作業を行い、参加者同士で意見交換をしました。
+
+- `openSUSE Leap 16 <https://get.opensuse.org/ja/leap/16.0/>`_ に向けて、KDE Plasma の Wayland 環境で IM を使用できるための tips ページを作成
+- 上記環境において初回起動時の設定が空のため、KDE の仮想キーボードを設定する XDG Autostart スクリプトを作成
+- `Debian JP Project <https://www.debian.or.jp/>`_ Web サイトを Debian 13 "trixie" の情報に更新
+- Debian 13 "trixie" のリリースノートの翻訳状況を確認
+- 上記のリリースノートにあった sbuild + unshare によるパッケージのビルドを試す
+- `東京エリア Debian 勉強会 <https://tokyodebian-team.pages.debian.net/>`_ の Webサイトを更新
+- `MiniDebConf Japan 2025 <https://tokyodebian-team.pages.debian.net/minidebconf-japan-2025/>`_ の Web サイトを更新、荷物の発送準備
+- `MiniDebConf Japan 2025 <https://tokyodebian-team.pages.debian.net/minidebconf-japan-2025/>`_ の発表資料作成と調査
+- `OSC2025 Online/Fall <https://event.ospn.jp/osc2025-online-fall/>`_ と `OSC2025 Tokyo/Fall <https://event.ospn.jp/osc2025-fall/>`_ の申込み
+- ANYA server を LLM 版に置き換えた
+- クライアント側の neo ibus-anya の設計
+- LibreOffice 25.8 のインストールと新機能の確認
+- Debian ベースの `OliveLinux <https://github.com/freepalestine-epitaph/OliveLinux>`_ のビルドマシンの再作成中
+- `Arch Linux <https://archlinux.org/>`_ をミニマムインストールした環境に、Wayland + Sway をインストールした
+- Sway を自動起動して、ターミナルエミュレーターから Chorme を起動できるようにした
+- `openSUSE.Asia Summit 2025 <https://events.opensuse.org/conferences/oSAS25>`_ (インド開催) の宿泊先・空港周りなどの交通手段の調査
+- `openSUSE.Asia Summit 2025 <https://events.opensuse.org/conferences/oSAS25>`_ の発表資料の作成・調査
+
+次回開催は、`2025/9/dd(w) 11:00-18:00 <https://xddc.connpass.com/event/366931/>`_ の予定です。
