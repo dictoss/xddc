@@ -1,0 +1,31 @@
+もくもく会を開催しました
+######################################
+
+:date: 2025-09-27 18:15
+:modified: 2025-09-27 18:15
+:tags: meeting
+:category: meeting
+:slug: 2025-09-27_meeting
+:authors: dictoss@live.jp
+:summary: もくもく会を開催しました
+
+`ディストリビューション開発もくもく会 2025 年 9 月 <https://xddc.connpass.com/event/366931/>`_ を開催しました。
+会場は東京の幡ヶ谷にある株式会社創夢様の会議室とオンラインのビデオ会議でハイブリッド開催し、参加者は 7 名でした。
+
+参加者は各自で以下の作業を行い、参加者同士で意見交換をしました。
+
+- MakerFair の準備
+- GNOME Asia Summit 2025 の発表をどうするか考えていた
+- Wayland IM のドキュメントを書くための調査
+- JM mapnages-l10n への統合をする際の論点を整理
+- Debian 13 trixie リリースノートの翻訳状況を確認
+- MiniDebConf Japan 2025 イベント終了後の対応 (資料の修正・アップロード・スポンサー対応)
+- OSC2025 Tokyo/Fall の準備 (VisionFive 2 への Debian 13 インストールを試行錯誤)
+- Windows 10 の EoL に向けた記事の執筆
+- OSC2025 Tokyo/Fall のステージ企画検討 (インタビューアー 2名、デモする人 1名。配信はなしか遠目に見える感じで）
+- Chromebook を中古で買ったので、Debian を中で動かして LibreOffice をビルドしてみた (全然終わらない)
+- Debian GNU/Hurd 2025 をインストールしてみた (Thinkpad に 32bit 版はインストールできた。amd64 ホストのKVM仮想マシンに 64bit 版はうまく入らず)
+- Android で動作する日本語入力メソッドアプリをいくつかビルドしてみた
+- OliveLinux のビルドマシンの設定
+
+次回開催は、`2025/10/19(日) 11:00-18:00 <https://xddc.connpass.com/event/370766/>`_ の予定です。
