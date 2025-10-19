@@ -1,0 +1,35 @@
+もくもく会を開催しました
+######################################
+
+:date: 2025-10-19 18:15
+:modified: 2025-10-19 18:15
+:tags: meeting
+:category: meeting
+:slug: 2025-10-19_meeting
+:authors: dictoss@live.jp
+:summary: もくもく会を開催しました
+
+`ディストリビューション開発もくもく会 2025 年 10 月 <https://xddc.connpass.com/event/370766/>`_ を開催しました。
+会場は東京の幡ヶ谷にある株式会社創夢様の会議室とオンラインのビデオ会議でハイブリッド開催し、参加者は 7 名でした。
+
+参加者は各自で以下の作業を行い、参加者同士で意見交換をしました。
+
+- OSC2025 Tokyo/Fall のデスクトップを見せて企画の準備
+- LibreOffice Asia + GNOME.Asia Summit の connpass の準備
+- openSUSE Leap 16 をインストールしたブログ記事の公開
+- Bazel-8.4 に更新されると Mozc がビルドできなくなる問題の調査
+- manpages-ja の 20251017 版を Debian パッケージにするべく作業中
+- openSUSE Lean 16 のリリースパーティへの申込み
+- Debian で OSC2025 Tokyo/Fall の LT 申込みとスライド作成
+- DebConf27 の日本招致に向けたキックオフの準備
+- Debian JP Projectの新ミラーサーバの契約
+- 11 月 15 日開催予定の Debian 勉強会の発表者募集を連絡
+- OSC2025 Tokyo/Fall のブース準備
+- Chromebook での LibreOffice のビルド (2日がかりで完了)
+- Debian GNU/Hard の動作確認
+- AndroidSKK の配列などの修正・調査
+- 技適的に OK な RISC-V ボードの調査と手配 (BIT-BRICK K1)
+- OliveLinux のビルドマシンの環境構築
+- Samba の ACL がらみの再調査 (ファイルシステムが ACL/xattr 既定になったためだいぶ状況が変わった)
+  
+次回開催は、`2025/11/23(日) 11:00-18:00 <https://xddc.connpass.com/event/373152/>`_ の予定です。
