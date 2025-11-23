@@ -1,0 +1,36 @@
+もくもく会を開催しました
+######################################
+
+:date: 2025-11-23 18:15
+:modified: 2025-11-23 18:15
+:tags: meeting
+:category: meeting
+:slug: 2025-11-23_meeting
+:authors: dictoss@live.jp
+:summary: もくもく会を開催しました
+
+`ディストリビューション開発もくもく会 2025 年 11 月 <https://xddc.connpass.com/event/373152/>`_ を開催しました。
+会場は東京の幡ヶ谷にある `株式会社創夢 <https://www.soum.co.jp/>`_ 様の会議室とオンラインのビデオ会議でハイブリッド開催し、参加者は 7 名でした。
+
+参加者は各自で以下の作業を行い、参加者同士で意見交換をしました。
+
+- `LibreOffice Asia Conference 2025 <https://wiki.documentfoundation.org/Events/2025/LibreOffice_Asia_Conference>`_ のツアープラン作成
+- Mozc の比較的新しいバージョン (2.32) を openSUSE でビルドを試した
+- `JM Project <https://linuxjm.sourceforge.io/>`_ の更新状況確認
+- manpages-ja の Debian パッケージの更新
+- 12 月の Debian 勉強会の案内と発表者募集告知
+- `Debian 勉強会 Web サイト <https://tokyodebian-team.pages.debian.net/>`_ のメンテナンス (資料 PDF のリンク追加)
+- `Debian JP Project <https://www.debian.or.jp/>`_ の CD イメージのダウンロードページを更新 (13.2、12.12 向け)
+- Debian Wiki に MiniDebConf Japan 2025 の `報告 <https://wiki.debian.org/DebianEvents/jp/2025/MiniDebConfJapan>`_ を掲載
+- debian-devel メーリングリストのメールを精読
+- Ubuntu 25.10 のリリースノート(日本語版)のレビューと公開
+- `Ubuntu 25.10リリース記念オフラインミーティング25.11 <https://gree.connpass.com/event/372582/>`_ 向けのスライド資料作成
+- GNU coreutils の翻訳方式と方針を見直し
+- `Geeko Magazine <https://blog.geeko.jp/category/geeko-magazine>`_ のネタ出しや原稿執筆
+- かな漢字変換の Anya のモデルと ibus-anya の修正
+- 連合学習関連の調査
+- Mozilla の製品サポート記事のうち、4 本をレビュー
+- Firefox 146 の翻訳
+- Android 版 Thunderbird の翻訳
+
+次回開催は、`2025/12/21(日) 11:00-18:00 <https://xddc.connpass.com/event/376897/>`_ の予定です。
