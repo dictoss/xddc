@@ -1,0 +1,36 @@
+もくもく会を開催しました
+######################################
+
+:date: 2025-12-21 18:30
+:modified: 2025-12-21 18:30
+:tags: meeting
+:category: meeting
+:slug: 2025-12-21_meeting
+:authors: dictoss@live.jp
+:summary: もくもく会を開催しました
+
+`ディストリビューション開発もくもく会 2025 年 12 月 <https://xddc.connpass.com/event/376897/>`_ を開催しました。
+会場は東京の幡ヶ谷にある `株式会社創夢 <https://www.soum.co.jp/>`_ 様の会議室とオンラインのビデオ会議でハイブリッド開催し、参加者は 8 名でした。
+
+参加者は各自で以下の作業を行い、参加者同士で意見交換をしました。
+
+- コミケ向けのおしながき・カタログの更新
+- 昨日リリースされた sof-firmware で特定のノートPCの動作確認 (いろいろやったら音が鳴るようになった!)
+- openSUSE/Fcitx の KDE 向け環境変数設定スクリプトの不具合修正
+- GNOME の QT_IM_MODULE の値の修正を確認
+- `DebConf 27 の日本招致のための資料 (Wiki ページ) <https://wiki.debian.org/DebConf/27/Bids/Japan>`_ の追記・更新
+- Ubuntu 向けのパッケージビルド環境の整備
+- `LibreOffice Advent Calendar 2025 <https://adventar.org/calendars/12401>`_ の穴埋め
+- Bit-Brick K1の起動確認 (RISC-Vボード)
+- LibreOffice 26 beta1 の縦書き表示問題の報告
+- LibreOffice 25.8.4.2 インストールと動作確認
+- `openSUSE Advent Calendar 2025 <https://adventar.org/calendars/11494>`_ の 21 日目の作成
+- `IM 2025 イベント <https://connpass.com/event/378006/>`_ に向けて、ANYA モデルの学習の仕掛け
+- `openSUSE Advent Calendar 2025 <https://adventar.org/calendars/11494>`_ のネタだし
+
+次回開催は、`2026/1/24(土) 11:00-18:00 <https://xddc.connpass.com/event/379472/>`_ の予定です。
+
+次々回の開催は 2026/2/6〜8にかけて箱根で温泉合宿を行いますので、ぜひご参加ください(XDDC分科会、リモートの参加も可)。
+
+- `2026/2/6〜7 【前泊】温泉合宿 in 箱根【忘れずに】 <https://svrkcho.connpass.com/event/346606/>`_
+- `2026/2/7〜8 【まったり】温泉合宿 in 箱根【九回目】 <https://svrkcho.connpass.com/event/346600/>`_
