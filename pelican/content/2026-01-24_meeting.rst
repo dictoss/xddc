@@ -1,0 +1,33 @@
+もくもく会を開催しました
+######################################
+
+:date: 2026-01-24 18:00
+:modified: 2026-01-24 18:00
+:tags: meeting
+:category: meeting
+:slug: 2026-01-24_meeting
+:authors: dictoss@live.jp
+:summary: もくもく会を開催しました
+
+`ディストリビューション開発もくもく会 2026 年 1 月 <https://xddc.connpass.com/event/379472/>`_ を開催しました。
+会場は東京の幡ヶ谷にある `株式会社創夢 <https://www.soum.co.jp/>`_ 様の会議室とオンラインのビデオ会議でハイブリッド開催し、参加者は 4 名でした。
+
+参加者は各自で以下の作業を行い、参加者同士で意見交換をしました。
+
+- OliveLinux のビルドマシンの環境設定
+- DebConf27 日本提案の予算表の会場ネットワーク周り概要案検討との費用の試算
+- DebConf27 日本提案の予算表の修正
+- OSC2026 Tokyo/Spring のブース・発表のネタ検討
+- 新しい日本の Debian ミラーサイト用 CDN の DNS 仕様確認
+- Ubuntu のリリースノート翻訳の下準備を自動化
+- Ubuntu の 24.04 から 26.04 への大きな変更点のリストアップ
+- LibreOffice 26.2 RC2 のインストール、動作確認、UI 未翻訳箇所の修正
+- LibreOffice の UI の翻訳
+- LibreOffice Base マニュアルの SQL 編の内容確認
+- RISC-V ボード (BitBrick K1) 用 Debian 13 イメージのダウンロード、セットアップ
+
+次回の開催は 2026/2/6〜8 にかけて箱根で温泉合宿を行いますので、ぜひご参加ください( XDDC 分科会、リモートの参加も可)。
+
+- `2025/2/7 ディストリビューション開発もくもく会 2026年2月(13:00-17:00) <https://xddc.connpass.com/event/382531/>`_
+- `2026/2/6〜7 【前泊】温泉合宿 in 箱根【忘れずに】 <https://svrkcho.connpass.com/event/346606/>`_
+- `2026/2/7〜8 【まったり】温泉合宿 in 箱根【九回目】 <https://svrkcho.connpass.com/event/346600/>`_
