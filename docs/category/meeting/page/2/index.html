@@ -30,7 +30,43 @@
         </div>
     </header>
     <div id="wrapper">
-        <div id="content">            <h4 class="date">2025-03-16</h4>
+        <div id="content">            <h4 class="date">2025-04-13</h4>
+
+            <article class="post">
+                <h2 class="title">
+                    <a href="https://dictoss.github.io/xddc/2025-04-13_meeting.html" rel="bookmark" title="Permanent Link to &quot;もくもく会を開催しました&quot;">もくもく会を開催しました</a>
+                </h2>
+
+                
+                
+
+                <p><a class="reference external" href="https://xddc.connpass.com/event/349418/">ディストリビューション開発もくもく会 2025 年 4 月</a> を開催しました。
+会場は東京の幡ヶ谷にある株式会社創夢様の会議室とオンラインのビデオ会議でハイブリッド開催し、参加者は 7 名でした。</p>
+<p>参加者は各自で以下の作業を行い、参加者同士で意見交換をしました。</p>
+<ul class="simple">
+<li>OSC 名古屋の申し込み (openSUSE、東海道らぐ)</li>
+<li>ibus-1.5.32 のパッケージングをしようとしたところ、glib のかなり新しいバージョンである glib-2.84.0 に依存していたため、いろいろ調査</li>
+<li>mozc のオフラインビルド方法の調査。bazel mod における cache の仕組みを回避できる方法を模索中</li>
+<li>uim-qt6 の Wayland 対応の調査。引き続き変換候補ウィンドウの位置がおかしいため、Wayland のプロトコルを調べている</li>
+<li>Debian 勉強会 2025/4 の Web ページ作成と connpass の公開</li>
+<li>MiniDebConf Japan 2025 の Web サイト作成</li>
+<li>かな漢字変換コーパス作成ツールの実装</li>
+<li>Qubes OS に Windows 10 の Qube (VM) を作成した</li>
+<li>Qubes OS に Debian 13 の Qube (VM) を作ってみたものの、apt full-upgrade で起動しなくなった</li>
+<li>Debian の Apache Arrow パッケージの状況を確認し、改めてビルドできるように調整中 (ローカルの debuild ではビルドできるが、pbuilder では失敗する状況)</li>
+<li>Olive Linux に Emacs の設定ファイルを最初から含める作業を実施</li>
+</ul>
+<p>次回開催は、<a class="reference external" href="https://xddc.connpass.com/event/352286/">2025/05/03(土) 10:00-18:00</a> の予定です。</p>
+
+                <div class="clear"></div>
+
+                <div class="info">
+                    <a href="https://dictoss.github.io/xddc/2025-04-13_meeting.html">posted at 18:15</a>
+                    &nbsp;&middot;&nbsp;<a href="https://dictoss.github.io/xddc/category/meeting.html" rel="tag">meeting</a>
+                    &nbsp;&middot;
+                    &nbsp;<a href="https://dictoss.github.io/xddc/tag/meeting.html" class="tags">meeting</a>
+                </div>
+            </article>            <h4 class="date">2025-03-16</h4>
 
             <article class="post">
                 <h2 class="title">
@@ -425,70 +461,6 @@
 
                 <div class="info">
                     <a href="https://dictoss.github.io/xddc/2024-06-09_meeting.html">posted at 18:30</a>
-                    &nbsp;&middot;&nbsp;<a href="https://dictoss.github.io/xddc/category/meeting.html" rel="tag">meeting</a>
-                    &nbsp;&middot;
-                    &nbsp;<a href="https://dictoss.github.io/xddc/tag/meeting.html" class="tags">meeting</a>
-                </div>
-            </article>            <h4 class="date">2024-05-04</h4>
-
-            <article class="post">
-                <h2 class="title">
-                    <a href="https://dictoss.github.io/xddc/2024-05-04_meeting.html" rel="bookmark" title="Permanent Link to &quot;もくもく会を開催しました&quot;">もくもく会を開催しました</a>
-                </h2>
-
-                
-                
-
-                <p><a class="reference external" href="https://xddc.connpass.com/event/316388/">ディストリビューション開発もくもく会 2024 年 5 月</a> を開催しました。
-参加者は 10 名でした。</p>
-<p>参加者は各自で以下の作業を行い、参加者同士で意見交換をしました。</p>
-<ul class="simple">
-<li>オススメされた Visual Studio Code の勉強＆いくつか拡張試してみたものの、key bindings の違いに対応できずに撃沈</li>
-<li>DebConf24 の申込み</li>
-<li><dl class="first docutils">
-<dt>Raspberry Pi Zero 2 W 上で Raspberry Pi OS 12 armhf を動かしていると VNC 接続が動かない件について調査</dt>
-<dd><ul class="first last">
-<li>64bit 版(arm64) は問題なく動作するが、 <a class="reference external" href="https://github.com/raspberrypi/bookworm-feedback/issues/41">32bit 版(armhf) は壊れている模様</a></li>
-<li>VNC は Wayland 版と Xorg 版の 2 種類があり、機種によっては Wayland 版は使われていないらしい</li>
-</ul>
-</dd>
-</dl>
-</li>
-<li>uim の gtk4 対応のための調査</li>
-<li>openSUSE.Asia Summit 2024 のホスト案内の Pull Request を送った</li>
-<li>ibus-anya のために CMake 学習中</li>
-<li>Linux Foundation 関連の作業</li>
-<li>Go 言語を Docker でビルドしようと作業していた (結局、Go 言語を使わなくてよくなった)</li>
-<li>ANYA モデル読み込み C++ 対応</li>
-<li>Ubuntu の次世代イメージビルダーである imagecraft の調査</li>
-<li>Ubuntu の既存の ISO イメージ作成ツールの内容確認と、サイズ削減方法の調査</li>
-<li>openSUSE.Asia Summit 2024 のアナウンス用の写真作成</li>
-<li>技書博関連の準備</li>
-<li>openSUSE 向けの Mozc のバージョンアップ作業</li>
-<li>peco の不具合の調査</li>
-<li>Kubuntu 環境の準備</li>
-<li>COSCUP の Proposal の提出</li>
-<li>COSCUP の旅行準備</li>
-<li>CPUS の翻訳 (37% 程度完了)</li>
-<li>Debian 勉強会 Web サイトの更新 (5/18勉強会ページの追加)</li>
-<li>リリースしたばかりのUbuntu 24.04 LTS のインストール</li>
-<li>www.debian.or.jp の web サイト刷新プロトタイプ版の CI 作成＆サイト公開</li>
-<li>digimend-dkms 13-1 を unstable にアップロードした</li>
-<li>Debian で抱えていたパッチ (skip-without-CONFIG_USB_HID.patch) を upstream へフィードバックした</li>
-<li>Debian で抱えていたパッチ (udev-udevdir.patch)を upstream へフィードバックした</li>
-<li>Debian でパッケージがメンテナンスされている旨をコメントしておいた</li>
-<li>libhinawa 4.0.2-1 を unstable へアップロードした</li>
-<li>bookworm で Yocto 開発環境の構築とビルド</li>
-</ul>
-<p>次回開催は、2024/06/09(日) 10:00-18:00 の予定です。</p>
-<ul class="simple">
-<li><a class="reference external" href="https://xddc.connpass.com/event/318221/">https://xddc.connpass.com/event/318221/</a></li>
-</ul>
-
-                <div class="clear"></div>
-
-                <div class="info">
-                    <a href="https://dictoss.github.io/xddc/2024-05-04_meeting.html">posted at 18:30</a>
                     &nbsp;&middot;&nbsp;<a href="https://dictoss.github.io/xddc/category/meeting.html" rel="tag">meeting</a>
                     &nbsp;&middot;
                     &nbsp;<a href="https://dictoss.github.io/xddc/tag/meeting.html" class="tags">meeting</a>
