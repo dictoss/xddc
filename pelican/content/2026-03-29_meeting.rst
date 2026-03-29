@@ -1,0 +1,40 @@
+もくもく会を開催しました
+######################################
+
+:date: 2026-03-29 18:15
+:modified: 2026-03-29 18:15
+:tags: meeting
+:category: meeting
+:slug: 2026-03-29_meeting
+:authors: dictoss@live.jp
+:summary: もくもく会を開催しました
+
+`ディストリビューション開発もくもく会 2026 年 3 月 <https://xddc.connpass.com/event/384130/>`_ を開催しました。
+会場は東京の幡ヶ谷にある `株式会社創夢 <https://www.soum.co.jp/>`_ 様の会議室とオンラインのビデオ会議でハイブリッド開催し、参加者は 11 名でした。
+
+参加者は各自で以下の作業を行い、参加者同士で意見交換をしました。
+
+- IBus 1.5.34 の RC1 を試している
+- Wayland IM 関連プロトコルのお勉強
+- Debian で uim を Wayland 対応するための呼びかける準備を検討
+- Debian sid の Debianインストーラ(tasksel) で ibus と fcitx5 のどちらを優先するか検討
+- `DebConf26 アルゼンチン <https://debconf26.debconf.org/>`_ の参加申し込み
+- manpages-l10n からの返信メール内容を JM へ送信する準備
+- `DebConf27 日本 <https://wiki.debian.org/DebConf/27>`_ の部屋割り検討
+- `OSC2026仙台 <https://event.ospn.jp/osc2026-sendai/>`_ の申し込み準備
+- `UbuCon Asia 2026@COSCUP <https://2026.ubucon.asia/>`_ のプロポーザルを作成
+- Ubuntu のリリースノートの仕組みが変わるため一緒に i18n な仕組みが取り込めないかを検討
+- LibreOffice 26.2.2 がリリースされたため、更新して動作確認し UI 未翻訳箇所の確認
+- Android 向けの OSS SSH クライアントアプリのビルドと修正
+- RGB-D カメラ (OAK-D) の実験用環境を Debian 13 で構築
+- `OliveLinux <https://github.com/freepalestine-epitaph/OliveLinux>`_ を物理マシンでビルドできるかを試した
+- Samba 2.24.0 のドキュメント翻訳
+- `東海道らぐ藤沢宿 2026年4月オフ <https://tokaidolug.connpass.com/event/389096/>`_ な集まりの準備
+- `OSC2026名古屋 <https://event.ospn.jp/osc2026-nagoya/>`_ の準備
+- ibus-yuino の開発
+- CUPSの翻訳 (200/2400 件)
+- `COSCUP 2026 <https://coscup.org/2026/en/>`_ の準備
+- KDE Konsole のテストが master でもテストが通っていなかったため調査
+- Apple M4 上での Asahi Linux の調査
+
+次回開催は、`2026/04/25(土) 11:00-18:00 <https://xddc.connpass.com/event/389161/>`_ の予定です。
