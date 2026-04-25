@@ -1,0 +1,35 @@
+もくもく会を開催しました
+######################################
+
+:date: 2026-04-25 18:30
+:modified: 2026-04-25 18:30
+:tags: meeting
+:category: meeting
+:slug: 2026-04-25_meeting
+:authors: dictoss@live.jp
+:summary: もくもく会を開催しました
+
+`ディストリビューション開発もくもく会 2026 年 4 月 <https://xddc.connpass.com/event/389161/>`_ を開催しました。
+会場は東京の幡ヶ谷にある `株式会社創夢 <https://www.soum.co.jp/>`_ 様の会議室とオンラインのビデオ会議でハイブリッド開催し、参加者は 9 名でした。
+
+参加者は各自で以下の作業を行い、参加者同士で意見交換をしました。
+
+- ibus-mozc のプレエディットの選択範囲が Wayland 環境でおかしい問題を修正して github へマージ依頼した
+- openSUSE で mozc のバージョンアップ作業
+- `mentors.debian.net の suika3 パッケージ <https://mentors.debian.net/package/suika3/>`_ のレビュー
+- DebConf26 アルゼンチンの渡航準備
+- WSR-2533DHP2 にインストールした openwrt を24系から25系へアップグレード
+- openwrt の勉強
+- `Ubuntu 26.04 LTSリリース記念オフラインミーティング26.06 (2026/6/20) <https://gree.connpass.com/event/391623/>`_ の告知
+- `Ubuntu 26.04 LTS のリリースノート <https://documentation.ubuntu.com/release-notes/26.04/>`_ の翻訳
+- `Trisquel GNU/Linux <https://trisquel.info/>`_ をノートPC実機へインストール
+- リニューアルした `LibreOffice 本家の Web サイト <https://www.libreoffice.org/>`_ のデザイン確認
+- Debian GNU/Hurd 2025 64bit版 を実機にインストールするために試行錯誤
+- `OliveLinux <https://github.com/freepalestine-epitaph/OliveLinux>`_ に calamares パッケージの追加
+- Proxmox のドキュメントの翻訳を更新
+- Samba-4.24.0 のマニュアルの翻訳を更新
+- Open Build Service で man-pages-ja に修正版を作ってリクエストした
+- ibus-yuino の開発を進めた
+- `suika3 <https://github.com/awemorris/suika3>`_ のDebian パッケージ化対応
+
+次回開催は、`2026/05/17(日) 11:00-18:00 <https://xddc.connpass.com/event/392166/>`_ の予定です。
