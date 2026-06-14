@@ -1,0 +1,31 @@
+==========================
+ もくもく会を開催しました
+==========================
+
+:date: 2026-06-14 18:15
+:modified: 2026-06-14 18:15
+:tags: meeting
+:category: meeting
+:slug: 2026-06-14_meeting
+:authors: dictoss@live.jp
+:summary: もくもく会を開催しました
+
+`ディストリビューション開発もくもく会 2026 年 6 月 <https://xddc.connpass.com/event/394188/>`_ を開催しました。
+会場は東京の幡ヶ谷にある `株式会社創夢 <https://www.soum.co.jp/>`_ 様の会議室とオンラインのビデオ会議でハイブリッド開催し、参加者は 7 名でした。
+
+参加者は各自で以下の作業を行い、参加者同士で意見交換をしました。
+
+- 古い ibus でもビルドできるように mozc の開発作業を進めた
+- `DebConf27 <https://wiki.debian.org/DebConf/27>`_ のイベント告知・スタッフ募集のチラシ作成
+- `6月 東京エリア Debian 勉強会 <https://tokyodebian-team.pages.debian.net/2026-06.html>`_ の準備
+- DebConf27 の Day Trip 案の検討 (旭川市内、旭川市外の2プラン)
+- `Ubuntu 26.04 LTS のリリースノート翻訳 <https://documentation.ubuntu.com/release-notes/26.04/>`_
+- LibreOffice 26.2.4 インストール/動作確認
+- `LibreOffice Ask (QAサイト) <https://ask.libreoffice.org/c/japanese/16>`_ 巡回
+- OSS の ERP/ERPNext を Debian12 へインストールし、動作確認
+- `OliveLinux <https://github.com/freepalestine-epitaph/OliveLinux>`_ で Gnome 以外の xfce や lxde を試した (とりあえず元に戻して再ビルド中(未達))
+- `OSC2026 Kyoto <https://event.ospn.jp/osc2026-kyoto/>`_ の申し込み
+- `COSCUP 2026 <https://coscup.org/2026/en/>`_ の旅行手配、準備
+- `ibus-yuino <https://github.com/yuino-im/pyuino>`_ ライブ変換機能の実装
+
+次回開催は、`2026/07/12(日) 11:00-18:00 <https://xddc.connpass.com/event/397328/>`_ の予定です。
