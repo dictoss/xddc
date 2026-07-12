@@ -1,0 +1,33 @@
+==========================
+ もくもく会を開催しました
+==========================
+
+:date: 2026-07-12 18:15
+:modified: 2026-07-12 18:15
+:tags: meeting
+:category: meeting
+:slug: 2026-07-12_meeting
+:authors: dictoss@live.jp
+:summary: もくもく会を開催しました
+
+`ディストリビューション開発もくもく会 2026 年 7 月 <https://xddc.connpass.com/event/397328/>`_ を開催しました。
+会場は東京の幡ヶ谷にある `株式会社創夢 <https://www.soum.co.jp/>`_ 様の会議室とオンラインのビデオ会議でハイブリッド開催し、参加者は 8 名でした。
+
+参加者は各自で以下の作業を行い、参加者同士で意見交換をしました。
+
+- openSUSE Factory版 (開発版) で ibus-1.5.34 へバージョンを上げる開発作業を実施
+- DebConf26 アルゼンチン サンタフェへの渡航準備 (現地の交通や宿の予約)
+- Debian JP Project 2025 年度活動報告の作成と報告
+- DebConf27 Asahikawa の予算作成
+- sbuild 再入門の記事を作成するための調査
+- UbuCon Asia 2026 @ COSCUP の資料作成
+- GrapheneOS が Android17 に上がったため AndroidSKK のインストールと動作確認
+- Debian GNU/Hurd 64bit で teco エディタ (TECO-64) のビルドとコマンドの動作確認
+- 京都市内の宿泊施設事情調査 (OSC2026 京都向け)
+- LibreOffice Ask (QA サイト) 巡回、回答
+- LibreOffice 26.8 bata1 のインストールと新機能確認、UI 未翻訳箇所確認
+- OliveLinuxでBIOS 起動時に引き伸ばされる画像をきれいにする作業を実施
+- 2026 年夏コミケ向けの Geeko Magazine の記事を執筆
+- ibus-yuino ライブ変換機能の frontend 実装
+
+次回開催は、`2026/08/23(日) 11:00-18:00 <https://xddc.connpass.com/event/400417/>`_ の予定です。
