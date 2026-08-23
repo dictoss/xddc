@@ -1,0 +1,33 @@
+==========================
+ もくもく会を開催しました
+==========================
+
+:date: 2026-08-23 18:15
+:modified: 2026-08-23 18:15
+:tags: meeting
+:category: meeting
+:slug: 2026-08-23_meeting
+:authors: dictoss@live.jp
+:summary: もくもく会を開催しました
+
+`ディストリビューション開発もくもく会 2026 年 8 月 <https://xddc.connpass.com/event/400417/>`_ を開催しました。
+会場は東京の幡ヶ谷にある `株式会社創夢 <https://www.soum.co.jp/>`_ 様の会議室とオンラインのビデオ会議でハイブリッド開催し、参加者は 8 名でした。
+
+参加者は各自で以下の作業を行い、参加者同士で意見交換をしました。
+
+- ODC2026 の XDDC セミナーのスライド作成 (openSUSE, Ubuntu, Debian)
+- openSUSE 16.0, 16.1 で発生中の mozc 不具合の対応方法検討
+- Debian experimental の uim-mozc 状況確認
+- DebConf27 Web サイトの開発環境を構築する手順を作成
+- DebConf27 Web サイトの開発環境構築・修正内容検討
+- IT イベント発表の CfP 作成・レビュー
+- RISC-V ボード (BitBrick K1) Debian13 イメージの動作確認、外付 USB Bluetooth アダプタを動作させるための作業
+- RISC-V ボード (BitBrick K1) で LibreOffice 開発版のローカルビルドの手順整理(Debian 13 で Clang)
+- LibreOffice 27.2 搭載予定の LAMBDA 関数関連の動作確認
+- ODC2026 の LT 資料作成 (XDDC 紹介)
+- Yuino の学習仕込み
+- ibus-yuino を開発するための検討
+
+次回開催は、`2026/09/19(土) 11:00-13:00 <https://xddc.connpass.com/event/404714/>`_ の予定です。
+
+その後は14時から開催する、`小江戸らぐ 9月のオフな集まり(第290回) <https://koedolug.connpass.com/event/403834/>`_ に合流予定です (Software Freedom Day のイベント)。
