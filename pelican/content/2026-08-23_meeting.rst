@@ -27,6 +27,7 @@
 - ODC2026 の LT 資料作成 (XDDC 紹介)
 - Yuino の学習仕込み
 - ibus-yuino を開発するための検討
+- GNU coreutils 翻訳改善のために help2man 解析
 
 次回開催は、`2026/09/19(土) 11:00-13:00 <https://xddc.connpass.com/event/404714/>`_ の予定です。
 
