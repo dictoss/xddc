@@ -1,0 +1,20 @@
+==========================
+ もくもく会を開催しました
+==========================
+
+:date: 2026-09-19 13:00
+:modified: 2026-09-19 13:00
+:tags: meeting
+:category: meeting
+:slug: 2026-09-19_meeting
+:authors: dictoss@live.jp
+:summary: もくもく会を開催しました
+
+`ディストリビューション開発もくもく会 2026 年 9 月 <https://xddc.connpass.com/event/404714/>`_ を開催しました。
+会場は東京の幡ヶ谷にある `株式会社創夢 <https://www.soum.co.jp/>`_ 様の会議室とオンラインのビデオ会議でハイブリッド開催し、参加者は 8 名でした。
+
+参加者は各人の近況報告を行い、参加者同士で意見交換をしました。
+
+今回は時間を短縮して開催し、14時から `小江戸らぐ 9月のオフな集まり(第290回) <https://koedolug.connpass.com/event/403834/>`_ に合流しました (Software Freedom Day のイベント)。
+
+次回開催は、`2026年10月 <https://xddc.connpass.com/event/>`_ の予定です。
