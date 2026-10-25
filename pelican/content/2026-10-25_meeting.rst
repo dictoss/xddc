@@ -1,0 +1,28 @@
+==========================
+ もくもく会を開催しました
+==========================
+
+:date: 2026-10-25 18:30
+:modified: 2026-10-25 18:30
+:tags: meeting
+:category: meeting
+:slug: 2026-10-25_meeting
+:authors: dictoss@live.jp
+:summary: もくもく会を開催しました
+
+`ディストリビューション開発もくもく会 2026 年 10 月 <https://xddc.connpass.com/event/408807/>`_ を開催しました。
+会場は東京の幡ヶ谷にある `株式会社創夢 <https://www.soum.co.jp/>`_ 様の会議室とオンラインのビデオ会議でハイブリッド開催し、参加者は 8 名でした。
+
+参加者は各自で以下の作業を行い、参加者同士で意見交換をしました。
+
+- Mozc のビルドで、rules_go が https://go.dev/dl/?mode=json&include=all を勝手にダウンロードするようになった原因の調査 (0.59で動作が変わり、go を使ってなくてもダウンロードするように動作が変わってしまったことを特定)
+- `DebConf27 旭川 <https://debconf27.debconf.org/>`_ のスポンサー依頼文書の日本語訳のレビューと修正
+- `DebConf27 旭川 <https://debconf27.debconf.org/>`_ で海外からの問い合わせメールの返信、ボランティア募集準備、予算作成
+- `11月Debian勉強会 <https://tokyodebian-team.pages.debian.net/2026-11.html>`_ の準備
+- サーバのセキュリティ対応
+- `OliveLinux <https://github.com/freepalestine-epitaph/OliveLinux>`_ のBIOS起動時の画面でアイコンの縦横比が崩れる問題を調査 (問題は実行時でなくビルド時に発生していると判明)
+- `wsdd <https://github.com/christgau/wsdd>`_、`OmegaT <https://github.com/linux-jm/manual/wiki/OmegaT%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%9F%E7%BF%BB%E8%A8%B3>`_ の英語マニュアルを日本語へ翻訳
+- `関西オープンフォーラム <https://www.k-of.jp/2026/>`_ の申し込み準備
+- `かな漢字変換「pyuino」 <https://github.com/yuino-im/pyuino>`_ の C++ 対応 (LibTorch)
+
+次回開催は、`2026/11/23(月・祝) 11:00-18:00 <https://xddc.connpass.com/event/410994/>`_ の予定です。
